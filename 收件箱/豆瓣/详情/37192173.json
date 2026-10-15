@@ -1,0 +1,188 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37192173",
+  "url": "https://movie.douban.com/subject/37192173/",
+  "中文名": "阿拉巴马解决方案",
+  "原名": "The Alabama Solution",
+  "上映年": "2025",
+  "上映日期": "",
+  "主要国家": "美国",
+  "制作国家": [
+    "美国"
+  ],
+  "导演": [
+    "安德鲁·亚雷茨基",
+    "Charlotte Kaufman"
+  ],
+  "编剧": [
+    "安德鲁·亚雷茨基",
+    "Charlotte Kaufman",
+    "Page Marsella"
+  ],
+  "主演": [
+    "Raoul Poole",
+    "Robert Earl Council",
+    "Melvin Ray",
+    "Sandy Ray",
+    "Brandon Davis",
+    "Hank Sherrod",
+    "James Sales",
+    "Quante Cockrell",
+    "Stacy George",
+    "Steve Marshall",
+    "Nikki",
+    "Catrice",
+    "Earnestine Council",
+    "Robert Earl Council Sr.",
+    "Ciara Council",
+    "Jeffery Williams",
+    "Mark Bullock",
+    "Steven Davis",
+    "Jefferson Dunn",
+    "Roderick Gadson"
+  ],
+  "人物": [
+    {
+      "id": "27533726",
+      "姓名": "安德鲁·亚雷茨基",
+      "职位": "导演"
+    },
+    {
+      "id": "38221188",
+      "姓名": "Charlotte Kaufman",
+      "职位": "导演"
+    },
+    {
+      "id": "27533726",
+      "姓名": "安德鲁·亚雷茨基",
+      "职位": "编剧"
+    },
+    {
+      "id": "38221188",
+      "姓名": "Charlotte Kaufman",
+      "职位": "编剧"
+    },
+    {
+      "id": "38221036",
+      "姓名": "Page Marsella",
+      "职位": "编剧"
+    },
+    {
+      "id": "38227720",
+      "姓名": "Raoul Poole",
+      "职位": "主演"
+    },
+    {
+      "id": "38227721",
+      "姓名": "Robert Earl Council",
+      "职位": "主演"
+    },
+    {
+      "id": "38227722",
+      "姓名": "Melvin Ray",
+      "职位": "主演"
+    },
+    {
+      "id": "38227723",
+      "姓名": "Sandy Ray",
+      "职位": "主演"
+    },
+    {
+      "id": "38227724",
+      "姓名": "Brandon Davis",
+      "职位": "主演"
+    },
+    {
+      "id": "38227725",
+      "姓名": "Hank Sherrod",
+      "职位": "主演"
+    },
+    {
+      "id": "38227726",
+      "姓名": "James Sales",
+      "职位": "主演"
+    },
+    {
+      "id": "38227727",
+      "姓名": "Quante Cockrell",
+      "职位": "主演"
+    },
+    {
+      "id": "38227728",
+      "姓名": "Stacy George",
+      "职位": "主演"
+    },
+    {
+      "id": "38227729",
+      "姓名": "Steve Marshall",
+      "职位": "主演"
+    },
+    {
+      "id": "38227730",
+      "姓名": "Nikki",
+      "职位": "主演"
+    },
+    {
+      "id": "38227731",
+      "姓名": "Catrice",
+      "职位": "主演"
+    },
+    {
+      "id": "38227732",
+      "姓名": "Earnestine Council",
+      "职位": "主演"
+    },
+    {
+      "id": "38227733",
+      "姓名": "Robert Earl Council Sr.",
+      "职位": "主演"
+    },
+    {
+      "id": "38227734",
+      "姓名": "Ciara Council",
+      "职位": "主演"
+    },
+    {
+      "id": "38227735",
+      "姓名": "Jeffery Williams",
+      "职位": "主演"
+    },
+    {
+      "id": "38227736",
+      "姓名": "Mark Bullock",
+      "职位": "主演"
+    },
+    {
+      "id": "38227737",
+      "姓名": "Steven Davis",
+      "职位": "主演"
+    },
+    {
+      "id": "38227738",
+      "姓名": "Jefferson Dunn",
+      "职位": "主演"
+    },
+    {
+      "id": "38227739",
+      "姓名": "Roderick Gadson",
+      "职位": "主演"
+    }
+  ],
+  "简介": "被监禁者不畏艰险，揭露了美国最致命的监狱系统中掩盖的真相。",
+  "又名": [
+    "牢笼下的真相"
+  ],
+  "imdb": "tt35307139",
+  "豆瓣": "https://movie.douban.com/subject/37192173/",
+  "海报": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2925773861.jpg",
+  "豆瓣评分": "7.6",
+  "不确定": [
+    {
+      "主题": "上映日期",
+      "说法": [
+        "2025-01-28",
+        "2025-10-10"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37247208",
+  "url": "https://movie.douban.com/subject/37247208/",
+  "中文名": "乘浪涛去",
+  "原名": "Under the Wave Off Little Dragon",
+  "上映年": "2025",
+  "上映日期": "2025-10-15",
+  "主要国家": "英国",
+  "制作国家": [
+    "英国"
+  ],
+  "导演": [
+    "罗柬"
+  ],
+  "编剧": [
+    "罗柬"
+  ],
+  "主演": [
+    "Kexin Wang",
+    "Jessica Wang"
+  ],
+  "人物": [
+    {
+      "id": "34436695",
+      "姓名": "罗柬",
+      "职位": "导演"
+    },
+    {
+      "id": "34436695",
+      "姓名": "罗柬",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Kexin Wang",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Jessica Wang",
+      "职位": "主演"
+    }
+  ],
+  "简介": "Inside her family’s Chinese takeaway in a small Welsh seaside town, little Feifei bustles back and forth, until a sad discovery stops her: her beloved goldfish has jumped out of its bowl. Why would a fish leap from its own bowl? Feifei does not understand. Her Mum tries to console her with a Chinese folktale about fish and dragons, but Feifei is not buying it. She has written l...",
+  "又名": [
+    "Unter der Welle vor Little Dragon",
+    "在小龙的浪潮下"
+  ],
+  "imdb": "tt29335822",
+  "豆瓣": "https://movie.douban.com/subject/37247208/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2929139543.jpg",
+  "豆瓣评分": "",
+  "不确定": []
+}

@@ -1,0 +1,99 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "35657329",
+  "url": "https://movie.douban.com/subject/35657329/",
+  "中文名": "吸血鬼物语",
+  "原名": "แวมไพร์โปรเจ็คต์",
+  "上映年": "2025",
+  "上映日期": "2025-08-23",
+  "主要国家": "泰国",
+  "制作国家": [
+    "泰国"
+  ],
+  "导演": [
+    "西瓦·萨瓦玛尼固"
+  ],
+  "编剧": [
+    "诺帕努·甘塔柴"
+  ],
+  "主演": [
+    "诺帕努·甘塔柴",
+    "瓦鲁特·查瓦力朱吉翁",
+    "彭萨帕克·安多姆珀驰",
+    "Stamp Panachkorn Rueksiriaree",
+    "Luke Peemsan",
+    "凯·乐希迪柴",
+    "吉兰塔宁·特拉塔那永"
+  ],
+  "人物": [
+    {
+      "id": "30469889",
+      "姓名": "西瓦·萨瓦玛尼固",
+      "职位": "导演"
+    },
+    {
+      "id": "34954325",
+      "姓名": "诺帕努·甘塔柴",
+      "职位": "编剧"
+    },
+    {
+      "id": "34954325",
+      "姓名": "诺帕努·甘塔柴",
+      "职位": "主演"
+    },
+    {
+      "id": "34959916",
+      "姓名": "瓦鲁特·查瓦力朱吉翁",
+      "职位": "主演"
+    },
+    {
+      "id": "35360189",
+      "姓名": "彭萨帕克·安多姆珀驰",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Stamp Panachkorn Rueksiriaree",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Luke Peemsan",
+      "职位": "主演"
+    },
+    {
+      "id": "34986605",
+      "姓名": "凯·乐希迪柴",
+      "职位": "主演"
+    },
+    {
+      "id": "35936353",
+      "姓名": "吉兰塔宁·特拉塔那永",
+      "职位": "主演"
+    }
+  ],
+  "简介": "Punn是一家古董店的老板。一个博物馆馆长Jet常常光顾这家店，他一身的神秘气息引起了Punn的兴趣。\nPunn is the owner of a vintage shop. He's intrigued by his regular customer Jet, a museum owner with an air of secrecy.",
+  "又名": [
+    "我的西兰花",
+    "我的花椰菜",
+    "吸血鬼的爱",
+    "吸血鬼计划",
+    "My Broccoli The Series",
+    "My Broccoli",
+    "Vampire Project",
+    "Revamp: The Undead Story",
+    "The Vampire Project: To the Last",
+    "Nueva Era de los Inmortales",
+    "不朽传说",
+    "修补：不死传奇",
+    "吸血鬼不老传说",
+    "爱与沉沦：吸血鬼复兴计划",
+    "不死族传说",
+    "永生血族"
+  ],
+  "imdb": "tt32215776",
+  "豆瓣": "https://movie.douban.com/subject/35657329/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2926662152.jpg",
+  "豆瓣评分": "7.1",
+  "不确定": []
+}

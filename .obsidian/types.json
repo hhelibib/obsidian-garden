@@ -1,0 +1,23 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "上映日期": "date",
+    "观影日期": "date",
+    "出生": "date",
+    "逝世": "date",
+    "我的评分": "number",
+    "观影次数": "number",
+    "上映年": "number",
+    "系列序号": "number",
+    "创办年": "number",
+    "首届年": "number",
+    "首届日期": "date",
+    "最高奖": "multitext",
+    "制作国家": "multitext",
+    "其他版本": "multitext",
+    "导演": "multitext",
+    "主演": "multitext",
+    "身份": "multitext",
+    "国籍": "multitext"
+  }
+}

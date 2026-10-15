@@ -1,0 +1,58 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "36405363",
+  "url": "https://movie.douban.com/subject/36405363/",
+  "中文名": "查理与哈珀",
+  "原名": "Charlie Harper",
+  "上映年": "2025",
+  "上映日期": "2025-09-04",
+  "主要国家": "美国",
+  "制作国家": [
+    "美国"
+  ],
+  "导演": [
+    "Tom Dean",
+    "Mac Eldridge"
+  ],
+  "编剧": [
+    "Tom Dean"
+  ],
+  "主演": [
+    "艾米莉亚·琼斯",
+    "Nick Robinson"
+  ],
+  "人物": [
+    {
+      "id": "",
+      "姓名": "Tom Dean",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "Mac Eldridge",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "Tom Dean",
+      "职位": "编剧"
+    },
+    {
+      "id": "27503771",
+      "姓名": "艾米莉亚·琼斯",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Nick Robinson",
+      "职位": "主演"
+    }
+  ],
+  "简介": "Pic follows the journey of a young woman, Harper, and a young man, Charlie, as they meet, leave their respective homes, and attempt to build a life together in a new city. As the driven and ambitious Harper works to build a career as a chef, and the brilliant-yet-stuck Charlie struggles to get himself on track, their relationship faces growing challenges. The movie “will includ...",
+  "又名": [],
+  "imdb": "tt27739255",
+  "豆瓣": "https://movie.douban.com/subject/36405363/",
+  "海报": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2933571434.jpg",
+  "豆瓣评分": "",
+  "不确定": []
+}

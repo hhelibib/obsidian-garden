@@ -1,0 +1,20 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "30072368",
+  "url": "https://www.douban.com/personage/30072368/",
+  "中文名": "威廉·莎士比亚",
+  "原名": "William Shakespeare",
+  "出生": "1564-04-23",
+  "出生地": "英国,英格兰,沃里克郡,河畔斯特拉特福德雅芳",
+  "国籍": [
+    "英国"
+  ],
+  "身份": [
+    "作者",
+    "编剧"
+  ],
+  "imdb": "nm0000636",
+  "豆瓣": "https://www.douban.com/personage/30072368/",
+  "简介": "英国文学史上最杰出的戏剧家，也是欧洲文艺复兴时期最重要、最伟大的作家，全世界最卓越的文学家之一。",
+  "照片": "https://img2.doubanio.com/view/personage/m/public/58bb4571619291f0aa4bea7dd06a61a1.jpg"
+}

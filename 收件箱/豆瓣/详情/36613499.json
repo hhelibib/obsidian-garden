@@ -1,0 +1,130 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "36613499",
+  "url": "https://movie.douban.com/subject/36613499/",
+  "中文名": "爱上自恋狂",
+  "原名": "You're Dating a Narcissist!",
+  "上映年": "2025",
+  "上映日期": "2025-10-25",
+  "主要国家": "美国",
+  "制作国家": [
+    "美国"
+  ],
+  "导演": [
+    "Ann Marie Allison"
+  ],
+  "编剧": [
+    "Ann Marie Allison",
+    "Jenna Milly"
+  ],
+  "主演": [
+    "玛丽莎·托梅",
+    "席亚拉·博拉沃",
+    "雪莉·可拉",
+    "何塞·马利亚·亚兹皮克",
+    "马可·皮科西",
+    "莉莉·多诺格",
+    "朱迪·凯恩",
+    "乔纳·普拉特",
+    "列乌特·菲施",
+    "马库斯·伊曼纽尔·米切尔",
+    "Kelsey Lea Jones",
+    "Genevieve Denny",
+    "Jocelyn Marie",
+    "Emma Factor"
+  ],
+  "人物": [
+    {
+      "id": "",
+      "姓名": "Ann Marie Allison",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "Ann Marie Allison",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Jenna Milly",
+      "职位": "编剧"
+    },
+    {
+      "id": "27253736",
+      "姓名": "玛丽莎·托梅",
+      "职位": "主演"
+    },
+    {
+      "id": "27456334",
+      "姓名": "席亚拉·博拉沃",
+      "职位": "主演"
+    },
+    {
+      "id": "35798902",
+      "姓名": "雪莉·可拉",
+      "职位": "主演"
+    },
+    {
+      "id": "27247046",
+      "姓名": "何塞·马利亚·亚兹皮克",
+      "职位": "主演"
+    },
+    {
+      "id": "27404778",
+      "姓名": "马可·皮科西",
+      "职位": "主演"
+    },
+    {
+      "id": "34917435",
+      "姓名": "莉莉·多诺格",
+      "职位": "主演"
+    },
+    {
+      "id": "34804275",
+      "姓名": "朱迪·凯恩",
+      "职位": "主演"
+    },
+    {
+      "id": "36036951",
+      "姓名": "乔纳·普拉特",
+      "职位": "主演"
+    },
+    {
+      "id": "36599904",
+      "姓名": "列乌特·菲施",
+      "职位": "主演"
+    },
+    {
+      "id": "27583447",
+      "姓名": "马库斯·伊曼纽尔·米切尔",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Kelsey Lea Jones",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Genevieve Denny",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Jocelyn Marie",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Emma Factor",
+      "职位": "主演"
+    }
+  ],
+  "简介": "An outspoken psychologist rushes to Los Angeles with her best friend to stop her lovesick daughter's wedding, fearing the groom is a narcissist.",
+  "又名": [],
+  "imdb": "tt29375937",
+  "豆瓣": "https://movie.douban.com/subject/36613499/",
+  "海报": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2901932545.jpg",
+  "豆瓣评分": "",
+  "不确定": []
+}

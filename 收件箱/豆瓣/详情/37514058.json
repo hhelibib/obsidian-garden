@@ -1,0 +1,59 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37514058",
+  "url": "https://movie.douban.com/subject/37514058/",
+  "中文名": "小婉",
+  "原名": "Mayumi",
+  "上映年": "2025",
+  "上映日期": "2025-09-26",
+  "主要国家": "菲律宾",
+  "制作国家": [
+    "菲律宾"
+  ],
+  "导演": [
+    "西格丽德·波隆"
+  ],
+  "编剧": [],
+  "主演": [
+    "阿莉雅·雷蒙多",
+    "Marco Mora",
+    "莎乐美·萨尔维",
+    "Gboy Pablo"
+  ],
+  "人物": [
+    {
+      "id": "36942202",
+      "姓名": "西格丽德·波隆",
+      "职位": "导演"
+    },
+    {
+      "id": "37286937",
+      "姓名": "阿莉雅·雷蒙多",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Marco Mora",
+      "职位": "主演"
+    },
+    {
+      "id": "37118634",
+      "姓名": "莎乐美·萨尔维",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Gboy Pablo",
+      "职位": "主演"
+    }
+  ],
+  "简介": "A woman awakens desire in her friend, igniting his sexual journey. Their growing emotional bond brings both heartache and personal growth.",
+  "又名": [
+    "小静"
+  ],
+  "imdb": "tt38080076",
+  "豆瓣": "https://movie.douban.com/subject/37514058/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2925015539.jpg",
+  "豆瓣评分": "",
+  "不确定": []
+}

@@ -1,0 +1,110 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37386753",
+  "url": "https://movie.douban.com/subject/37386753/",
+  "中文名": "幽灵学校",
+  "原名": "Ghost School",
+  "上映年": "2025",
+  "上映日期": "2025-09-04",
+  "主要国家": "巴基斯坦",
+  "制作国家": [
+    "巴基斯坦",
+    "德国",
+    "沙特阿拉伯"
+  ],
+  "导演": [
+    "塞马卜·古尔"
+  ],
+  "编剧": [
+    "塞马卜·古尔"
+  ],
+  "主演": [
+    "纳扎利娅·阿尔萨兰",
+    "Tutu Baba",
+    "Ziarat Gul",
+    "Taha Khan",
+    "Kehan Naqvi",
+    "Tariq Raja",
+    "Samina Seher",
+    "瓦伊达·沙阿",
+    "阿德楠·沙·提普",
+    "Muhammad Zamaan",
+    "Muhammad Zayan"
+  ],
+  "人物": [
+    {
+      "id": "37517498",
+      "姓名": "塞马卜·古尔",
+      "职位": "导演"
+    },
+    {
+      "id": "37517498",
+      "姓名": "塞马卜·古尔",
+      "职位": "编剧"
+    },
+    {
+      "id": "38212630",
+      "姓名": "纳扎利娅·阿尔萨兰",
+      "职位": "主演"
+    },
+    {
+      "id": "38212631",
+      "姓名": "Tutu Baba",
+      "职位": "主演"
+    },
+    {
+      "id": "38212632",
+      "姓名": "Ziarat Gul",
+      "职位": "主演"
+    },
+    {
+      "id": "38212633",
+      "姓名": "Taha Khan",
+      "职位": "主演"
+    },
+    {
+      "id": "38212634",
+      "姓名": "Kehan Naqvi",
+      "职位": "主演"
+    },
+    {
+      "id": "38212635",
+      "姓名": "Tariq Raja",
+      "职位": "主演"
+    },
+    {
+      "id": "38212636",
+      "姓名": "Samina Seher",
+      "职位": "主演"
+    },
+    {
+      "id": "36572796",
+      "姓名": "瓦伊达·沙阿",
+      "职位": "主演"
+    },
+    {
+      "id": "36572793",
+      "姓名": "阿德楠·沙·提普",
+      "职位": "主演"
+    },
+    {
+      "id": "38212637",
+      "姓名": "Muhammad Zamaan",
+      "职位": "主演"
+    },
+    {
+      "id": "38212638",
+      "姓名": "Muhammad Zayan",
+      "职位": "主演"
+    }
+  ],
+  "简介": "Rabia, a ten-year-old Pakistani girl sets out to find why her only school in the village is closed. This fable is a ghost story with a tinge of magical-realism that explores corruption from a child's perspective.",
+  "又名": [
+    "Geisterschule"
+  ],
+  "imdb": "tt37547768",
+  "豆瓣": "https://movie.douban.com/subject/37386753/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2929720092.jpg",
+  "豆瓣评分": "",
+  "不确定": []
+}

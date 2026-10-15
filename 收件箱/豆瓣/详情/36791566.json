@@ -1,0 +1,69 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "36791566",
+  "url": "https://movie.douban.com/subject/36791566/",
+  "中文名": "T教授",
+  "原名": "第四季 Professor T Season 4",
+  "上映年": "2025",
+  "上映日期": "2025-08-24",
+  "主要国家": "英国",
+  "制作国家": [
+    "英国"
+  ],
+  "导演": [
+    "德里斯·沃斯",
+    "卡特·比尔斯"
+  ],
+  "编剧": [],
+  "主演": [
+    "本·米勒",
+    "弗朗西斯·德·拉·图瓦",
+    "茱丽叶特·斯蒂文森",
+    "巴尼·怀特",
+    "森特拉·莎克"
+  ],
+  "人物": [
+    {
+      "id": "36339497",
+      "姓名": "德里斯·沃斯",
+      "职位": "导演"
+    },
+    {
+      "id": "27506491",
+      "姓名": "卡特·比尔斯",
+      "职位": "导演"
+    },
+    {
+      "id": "27320855",
+      "姓名": "本·米勒",
+      "职位": "主演"
+    },
+    {
+      "id": "27228421",
+      "姓名": "弗朗西斯·德·拉·图瓦",
+      "职位": "主演"
+    },
+    {
+      "id": "27246967",
+      "姓名": "茱丽叶特·斯蒂文森",
+      "职位": "主演"
+    },
+    {
+      "id": "35511144",
+      "姓名": "巴尼·怀特",
+      "职位": "主演"
+    },
+    {
+      "id": "36649669",
+      "姓名": "森特拉·莎克",
+      "职位": "主演"
+    }
+  ],
+  "简介": "It returns six months after the shocking finale of Season 3, and the team must overcome their grief to tackle a dangerous crime wave.\nThis time, the gloves are well and truly off for Professor T in his lectures and a new musical pursuit, romance is very much alive for his mother Adelaide Tempest (De la Tour), and the lines between professional and personal become blurred for th...",
+  "又名": [],
+  "imdb": "tt31502985",
+  "豆瓣": "https://movie.douban.com/subject/36791566/",
+  "海报": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2925087791.jpg",
+  "豆瓣评分": "8.0",
+  "不确定": []
+}

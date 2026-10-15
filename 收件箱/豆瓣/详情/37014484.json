@@ -1,0 +1,61 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37014484",
+  "url": "https://movie.douban.com/subject/37014484/",
+  "中文名": "过山车",
+  "原名": "รักขบวนนี้หัวใจเกือบวาย",
+  "上映年": "2025",
+  "上映日期": "2025-08-13",
+  "主要国家": "泰国",
+  "制作国家": [
+    "泰国"
+  ],
+  "导演": [
+    "Aey Boon Kiaoruenrom"
+  ],
+  "编剧": [
+    "Pacharawan Chaipuwarat"
+  ],
+  "主演": [
+    "纳楠茶拉·勒帕塞特",
+    "Aom Pundao Panyabaramee",
+    "Shelly Phetsai Chanrueng"
+  ],
+  "人物": [
+    {
+      "id": "",
+      "姓名": "Aey Boon Kiaoruenrom",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "Pacharawan Chaipuwarat",
+      "职位": "编剧"
+    },
+    {
+      "id": "35005915",
+      "姓名": "纳楠茶拉·勒帕塞特",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Aom Pundao Panyabaramee",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Shelly Phetsai Chanrueng",
+      "职位": "主演"
+    }
+  ],
+  "简介": "The rights to reallyb's novel 'Roller Coaster' have been acquired by Motion Minds Entertainment! Casting auditions will begin soon.",
+  "又名": [
+    "Roller Coaster",
+    "Roller Coaster the series"
+  ],
+  "imdb": "tt37896711",
+  "豆瓣": "https://movie.douban.com/subject/37014484/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2922866872.jpg",
+  "豆瓣评分": "7.2",
+  "不确定": []
+}

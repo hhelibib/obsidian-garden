@@ -1,0 +1,21 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "27553578",
+  "url": "https://www.douban.com/personage/27553578/",
+  "中文名": "金志文",
+  "原名": "Zhiwen Jin",
+  "出生": "1982-07-12",
+  "出生地": "中国,吉林",
+  "国籍": [
+    "中国"
+  ],
+  "身份": [
+    "音乐人",
+    "演员",
+    "音乐"
+  ],
+  "imdb": "nm10652123",
+  "豆瓣": "https://www.douban.com/personage/27553578/",
+  "简介": "中国好声音选手",
+  "照片": "https://img3.doubanio.com/view/celebrity/m/public/p1407838494.97.jpg"
+}

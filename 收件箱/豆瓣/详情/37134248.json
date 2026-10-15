@@ -1,0 +1,71 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37134248",
+  "url": "https://movie.douban.com/subject/37134248/",
+  "中文名": "夏日",
+  "原名": "沙滩 我的王子 ผมเจอเจ้าชายบนชายหาด",
+  "上映年": "2025",
+  "上映日期": "2025-09-19",
+  "主要国家": "泰国",
+  "制作国家": [
+    "泰国"
+  ],
+  "导演": [
+    "提查孔·普考同"
+  ],
+  "编剧": [],
+  "主演": [
+    "塔纳温·坡查伦拉特",
+    "吉迪朋·瑟利维查亚萨瓦",
+    "塔纳查·威吉翁通",
+    "朴迪帕·普拓纳莫拆",
+    "柴·尼姆塔瓦特"
+  ],
+  "人物": [
+    {
+      "id": "35079404",
+      "姓名": "提查孔·普考同",
+      "职位": "导演"
+    },
+    {
+      "id": "35427406",
+      "姓名": "塔纳温·坡查伦拉特",
+      "职位": "主演"
+    },
+    {
+      "id": "35320227",
+      "姓名": "吉迪朋·瑟利维查亚萨瓦",
+      "职位": "主演"
+    },
+    {
+      "id": "34433982",
+      "姓名": "塔纳查·威吉翁通",
+      "职位": "主演"
+    },
+    {
+      "id": "36815162",
+      "姓名": "朴迪帕·普拓纳莫拆",
+      "职位": "主演"
+    },
+    {
+      "id": "34989230",
+      "姓名": "柴·尼姆塔瓦特",
+      "职位": "主演"
+    }
+  ],
+  "简介": "拉瓦的母亲把他送到海边和他年轻的叔叔住在一起，他马上开始工作。一天，他发现一个人被冲上了岸。在医院里，Wut医生诊断出这个人患有健忘症，他的叔叔自愿将Lava作为他的看护人。熔岩命名他为波，并重新分配他所有的职责给陌生人。Wave对体力劳动的挑剔和无能令人惊讶，暗示着它过去的骄纵。\nLava's mother sends him to live with his young uncle by the beach and he's immediately put to work. One day, he finds a man washed up on the shore. At the hospital, Dr. Wut diagnoses the man with amnesia and his uncle volunteers Lava as h...",
+  "又名": [
+    "That Summer",
+    "我在沙滩上遇见了王子",
+    "I Met a Prince on the Beach",
+    "Phom Joe Jaochai Bon Chai Hat",
+    "Phom Choe Chaochai Bon Chai Hat",
+    "那个夏日",
+    "那年夏天"
+  ],
+  "imdb": "tt34930091",
+  "豆瓣": "https://movie.douban.com/subject/37134248/",
+  "海报": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2924836654.jpg",
+  "豆瓣评分": "7.8",
+  "不确定": []
+}

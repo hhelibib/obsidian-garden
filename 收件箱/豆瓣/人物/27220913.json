@@ -1,0 +1,20 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "27220913",
+  "url": "https://www.douban.com/personage/27220913/",
+  "中文名": "佐藤珠绪",
+  "原名": "Tamao Satô",
+  "出生": "1973-01-02",
+  "出生地": "日本,千叶,船桥",
+  "国籍": [
+    "日本"
+  ],
+  "身份": [
+    "演员",
+    "作者"
+  ],
+  "imdb": "nm0766502",
+  "豆瓣": "https://www.douban.com/personage/27220913/",
+  "简介": "日本女演员。",
+  "照片": "https://img3.doubanio.com/view/personage/m/public/a783148ae6129d833b0c89c515b14940.jpg"
+}

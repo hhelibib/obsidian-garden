@@ -1,0 +1,52 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37149157",
+  "url": "https://movie.douban.com/subject/37149157/",
+  "中文名": "非演员",
+  "原名": "The Non-Actor",
+  "上映年": "2025",
+  "上映日期": "2025-02-02",
+  "主要国家": "美国",
+  "制作国家": [
+    "美国"
+  ],
+  "导演": [
+    "Eliza Callahan"
+  ],
+  "编剧": [
+    "Eliza Callahan"
+  ],
+  "主演": [
+    "维多利亚·佩德雷蒂",
+    "玛雅·霍克"
+  ],
+  "人物": [
+    {
+      "id": "37889733",
+      "姓名": "Eliza Callahan",
+      "职位": "导演"
+    },
+    {
+      "id": "37889733",
+      "姓名": "Eliza Callahan",
+      "职位": "编剧"
+    },
+    {
+      "id": "30351383",
+      "姓名": "维多利亚·佩德雷蒂",
+      "职位": "主演"
+    },
+    {
+      "id": "27408448",
+      "姓名": "玛雅·霍克",
+      "职位": "主演"
+    }
+  ],
+  "简介": "Elliot is staying with her ex’s new girlfriend while attending a medical trial for her recent, unexplained loss of hearing. As she reconfigures her relationship with her (sonic) environment and herself, an intimate connection sparks between the two women. With captivating performances by Victoria Pedretti and Maya Hawke, this loose adaptation of director Eliza Barry Callahan’s ...",
+  "又名": [],
+  "imdb": "tt34798924",
+  "豆瓣": "https://movie.douban.com/subject/37149157/",
+  "海报": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2934010981.jpg",
+  "豆瓣评分": "7.4",
+  "不确定": []
+}

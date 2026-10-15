@@ -1,0 +1,160 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37646395",
+  "url": "https://movie.douban.com/subject/37646395/",
+  "中文名": "寒棠沁雨",
+  "原名": "Beauty from Pain",
+  "上映年": "2025",
+  "上映日期": "2025-12-18",
+  "主要国家": "澳大利亚",
+  "制作国家": [
+    "澳大利亚"
+  ],
+  "导演": [
+    "Christine Luby Christine Luby"
+  ],
+  "编剧": [
+    "Georgia Cates",
+    "Brian Frederich"
+  ],
+  "主演": [
+    "杰克森·加拉格",
+    "萨曼莎·奥尔索普",
+    "Vanessa Moltzen",
+    "Arielle Cartwright",
+    "Callan Colley",
+    "Helen Howard",
+    "布丽特妮·格蕾",
+    "Jasmine Barui",
+    "Sophie Arthur",
+    "Victor Parascos",
+    "Olivia Simatovic",
+    "帕特里克·艾奇逊",
+    "Kim Denman",
+    "Layton Le Petit",
+    "Joel Drabble",
+    "Kaz Bowen",
+    "Victoria Little",
+    "Belinda Haraldson",
+    "热尔松·罗沙"
+  ],
+  "人物": [
+    {
+      "id": "",
+      "姓名": "Christine Luby Christine Luby",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "Georgia Cates",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Brian Frederich",
+      "职位": "编剧"
+    },
+    {
+      "id": "27481492",
+      "姓名": "杰克森·加拉格",
+      "职位": "主演"
+    },
+    {
+      "id": "36201057",
+      "姓名": "萨曼莎·奥尔索普",
+      "职位": "主演"
+    },
+    {
+      "id": "37241803",
+      "姓名": "Vanessa Moltzen",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Arielle Cartwright",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Callan Colley",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Helen Howard",
+      "职位": "主演"
+    },
+    {
+      "id": "36722917",
+      "姓名": "布丽特妮·格蕾",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Jasmine Barui",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Sophie Arthur",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Victor Parascos",
+      "职位": "主演"
+    },
+    {
+      "id": "36664931",
+      "姓名": "Olivia Simatovic",
+      "职位": "主演"
+    },
+    {
+      "id": "30396861",
+      "姓名": "帕特里克·艾奇逊",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Kim Denman",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Layton Le Petit",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Joel Drabble",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Kaz Bowen",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Victoria Little",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Belinda Haraldson",
+      "职位": "主演"
+    },
+    {
+      "id": "38204999",
+      "姓名": "热尔松·罗沙",
+      "职位": "主演"
+    }
+  ],
+  "简介": "在遭遇情感重创后，一位心怀音乐梦想的女子远走澳大利亚。她与一名亿万富豪酿酒师展开一段不求结果的恋情，却意外坠入情网，最终必须选择抽身而退，或是赌上真心去温暖那个惧怕爱情的男人。",
+  "又名": [],
+  "imdb": "tt36585628",
+  "豆瓣": "https://movie.douban.com/subject/37646395/",
+  "海报": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2928526595.jpg",
+  "豆瓣评分": "5.1",
+  "不确定": []
+}

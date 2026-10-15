@@ -1,0 +1,22 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "27585965",
+  "url": "https://www.douban.com/personage/27585965/",
+  "中文名": "木头",
+  "原名": "",
+  "出生": "1984-10-04",
+  "出生地": "中国,北京",
+  "国籍": [
+    "中国"
+  ],
+  "身份": [
+    "导演",
+    "编剧",
+    "配音",
+    "作者"
+  ],
+  "imdb": "nm10879834",
+  "豆瓣": "https://www.douban.com/personage/27585965/",
+  "简介": "人称会画动画的木头。2009年开始连载漫画，2011年3月发布动画《罗小黑战记》。",
+  "照片": "https://img3.doubanio.com/view/personage/m/public/a6d5568600b3a56c8e0adff97e0ea8b0.jpg"
+}

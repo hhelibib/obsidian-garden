@@ -1,0 +1,133 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37485115",
+  "url": "https://movie.douban.com/subject/37485115/",
+  "中文名": "心灵的胜利",
+  "原名": "Triumph of the Heart",
+  "上映年": "2025",
+  "上映日期": "2025-09-12",
+  "主要国家": "波兰",
+  "制作国家": [
+    "波兰",
+    "美国"
+  ],
+  "导演": [
+    "安东尼·丹布罗西奥"
+  ],
+  "编剧": [
+    "安东尼·丹布罗西奥"
+  ],
+  "主演": [
+    "罗温·波隆斯基",
+    "克里斯托弗·舍伍德",
+    "Sharon Oliphant",
+    "马尔钦·夸斯尼",
+    "Noah Archibald",
+    "Jan Bogdaniuk",
+    "Lauren Cimorelli",
+    "安东尼·丹布罗西奥",
+    "Damian Dambski",
+    "莱赫·德布里克",
+    "Michal Ferenc",
+    "Kamil Franaszczyk",
+    "Lukasz Gandecki",
+    "Agnieszka Golawska",
+    "Adam Hypki"
+  ],
+  "人物": [
+    {
+      "id": "37564337",
+      "姓名": "安东尼·丹布罗西奥",
+      "职位": "导演"
+    },
+    {
+      "id": "37564337",
+      "姓名": "安东尼·丹布罗西奥",
+      "职位": "编剧"
+    },
+    {
+      "id": "27502960",
+      "姓名": "罗温·波隆斯基",
+      "职位": "主演"
+    },
+    {
+      "id": "36153867",
+      "姓名": "克里斯托弗·舍伍德",
+      "职位": "主演"
+    },
+    {
+      "id": "38922000",
+      "姓名": "Sharon Oliphant",
+      "职位": "主演"
+    },
+    {
+      "id": "27429716",
+      "姓名": "马尔钦·夸斯尼",
+      "职位": "主演"
+    },
+    {
+      "id": "38922001",
+      "姓名": "Noah Archibald",
+      "职位": "主演"
+    },
+    {
+      "id": "38922002",
+      "姓名": "Jan Bogdaniuk",
+      "职位": "主演"
+    },
+    {
+      "id": "38922003",
+      "姓名": "Lauren Cimorelli",
+      "职位": "主演"
+    },
+    {
+      "id": "37564337",
+      "姓名": "安东尼·丹布罗西奥",
+      "职位": "主演"
+    },
+    {
+      "id": "38922004",
+      "姓名": "Damian Dambski",
+      "职位": "主演"
+    },
+    {
+      "id": "27290978",
+      "姓名": "莱赫·德布里克",
+      "职位": "主演"
+    },
+    {
+      "id": "38922005",
+      "姓名": "Michal Ferenc",
+      "职位": "主演"
+    },
+    {
+      "id": "38922006",
+      "姓名": "Kamil Franaszczyk",
+      "职位": "主演"
+    },
+    {
+      "id": "38922007",
+      "姓名": "Lukasz Gandecki",
+      "职位": "主演"
+    },
+    {
+      "id": "38922008",
+      "姓名": "Agnieszka Golawska",
+      "职位": "主演"
+    },
+    {
+      "id": "38922009",
+      "姓名": "Adam Hypki",
+      "职位": "主演"
+    }
+  ],
+  "简介": "The extraordinary true story of St. Maximilian Kolbe, a Polish Catholic priest who volunteered to die in place of another man in Auschwitz during World War II.",
+  "又名": [
+    "Triumf serca"
+  ],
+  "imdb": "tt29630418",
+  "豆瓣": "https://movie.douban.com/subject/37485115/",
+  "海报": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2924439731.jpg",
+  "豆瓣评分": "",
+  "不确定": []
+}

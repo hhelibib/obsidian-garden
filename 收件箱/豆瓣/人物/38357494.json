@@ -1,0 +1,19 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "38357494",
+  "url": "https://www.douban.com/personage/38357494/",
+  "中文名": "汤姆·泰勒",
+  "原名": "Tom Taylor",
+  "出生": "2001-07-16",
+  "出生地": "英国,萨里郡",
+  "国籍": [
+    "英国"
+  ],
+  "身份": [
+    "演员"
+  ],
+  "imdb": "nm6999211",
+  "豆瓣": "https://www.douban.com/personage/38357494/",
+  "简介": "儿子专业户",
+  "照片": "https://img3.doubanio.com/view/personage/m/public/3c71eac23a815a3cb6d81eb88a4e8e97.jpg"
+}

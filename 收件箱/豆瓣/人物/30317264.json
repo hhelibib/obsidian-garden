@@ -1,0 +1,22 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "30317264",
+  "url": "https://www.douban.com/personage/30317264/",
+  "中文名": "杨天真",
+  "原名": "Tianzhen Yang",
+  "出生": "1985-01-25",
+  "出生地": "中国,江西,南昌",
+  "国籍": [
+    "中国"
+  ],
+  "身份": [
+    "作者",
+    "演员",
+    "主持人",
+    "制片人"
+  ],
+  "imdb": "nm2701368",
+  "豆瓣": "https://www.douban.com/personage/30317264/",
+  "简介": "2005年开始从事宣传工作，2008年担任范冰冰工作室宣传总监，29岁与陆垚、陈洁、陈嘉颖共同创立壹心娱乐影视经纪公司，开创中国影视经纪公司新模式",
+  "照片": "https://img3.doubanio.com/view/personage/m/public/5015b5901de8446f8b225ce85a215e53.jpg"
+}

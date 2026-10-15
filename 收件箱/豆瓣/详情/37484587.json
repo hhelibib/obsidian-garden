@@ -1,0 +1,106 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37484587",
+  "url": "https://movie.douban.com/subject/37484587/",
+  "中文名": "黑伞人",
+  "原名": "The Man with the Black Umbrella",
+  "上映年": "2025",
+  "上映日期": "2025-08-29",
+  "主要国家": "美国",
+  "制作国家": [
+    "美国"
+  ],
+  "导演": [
+    "瑞奇·昂伯格"
+  ],
+  "编剧": [
+    "瑞奇·昂伯格"
+  ],
+  "主演": [
+    "Carey Bibb",
+    "Robert Bigley",
+    "James Herbert",
+    "Max Johnson",
+    "Jeff Lukeski",
+    "Ryan Milliner",
+    "Dylan R. Nix",
+    "James Michael Potts",
+    "Robert Rousch",
+    "Vincent Santoro",
+    "Nic Williams"
+  ],
+  "人物": [
+    {
+      "id": "36622765",
+      "姓名": "瑞奇·昂伯格",
+      "职位": "导演"
+    },
+    {
+      "id": "36622765",
+      "姓名": "瑞奇·昂伯格",
+      "职位": "编剧"
+    },
+    {
+      "id": "37812330",
+      "姓名": "Carey Bibb",
+      "职位": "主演"
+    },
+    {
+      "id": "37812331",
+      "姓名": "Robert Bigley",
+      "职位": "主演"
+    },
+    {
+      "id": "37812332",
+      "姓名": "James Herbert",
+      "职位": "主演"
+    },
+    {
+      "id": "37812333",
+      "姓名": "Max Johnson",
+      "职位": "主演"
+    },
+    {
+      "id": "37812334",
+      "姓名": "Jeff Lukeski",
+      "职位": "主演"
+    },
+    {
+      "id": "37812335",
+      "姓名": "Ryan Milliner",
+      "职位": "主演"
+    },
+    {
+      "id": "37812336",
+      "姓名": "Dylan R. Nix",
+      "职位": "主演"
+    },
+    {
+      "id": "37812337",
+      "姓名": "James Michael Potts",
+      "职位": "主演"
+    },
+    {
+      "id": "37812338",
+      "姓名": "Robert Rousch",
+      "职位": "主演"
+    },
+    {
+      "id": "37812339",
+      "姓名": "Vincent Santoro",
+      "职位": "主演"
+    },
+    {
+      "id": "37812340",
+      "姓名": "Nic Williams",
+      "职位": "主演"
+    }
+  ],
+  "简介": "2015年1月8日凌晨3点38分，一名撑着黑伞的男子闯入山顶路818号，制造了一起双重凶杀案。随着调查的深入，人们才意识到：有些谋杀，最好永远不要揭开真相。",
+  "又名": [],
+  "imdb": "tt38106016",
+  "豆瓣": "https://movie.douban.com/subject/37484587/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2924635509.jpg",
+  "豆瓣评分": "5.5",
+  "不确定": []
+}

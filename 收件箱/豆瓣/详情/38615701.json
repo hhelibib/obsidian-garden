@@ -1,0 +1,64 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "38615701",
+  "url": "https://movie.douban.com/subject/38615701/",
+  "中文名": "索默比之夏",
+  "原名": "Ein Sommer in Sommerby",
+  "上映年": "2025",
+  "上映日期": "",
+  "主要国家": "德国",
+  "制作国家": [
+    "德国"
+  ],
+  "导演": [
+    "Mara Eibl-Eibesfeldt"
+  ],
+  "编剧": [
+    "Kirsten Boie",
+    "Catharina Junk"
+  ],
+  "主演": [
+    "Johanna Gastdorf",
+    "Lotta Herzog",
+    "Gregory Richters"
+  ],
+  "人物": [
+    {
+      "id": "",
+      "姓名": "Mara Eibl-Eibesfeldt",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "Kirsten Boie",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Catharina Junk",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Johanna Gastdorf",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Lotta Herzog",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Gregory Richters",
+      "职位": "主演"
+    }
+  ],
+  "简介": "两兄弟与妹妹不得不到素未谋面的奶奶家度过暑假。尽管奶奶手里拿着猎枪迎接这群不速之客，孩子们不光给奶奶的农庄添乱、闯下不少祸，还挫败了一名狂妄房产中介的犯罪阴谋。",
+  "又名": [],
+  "imdb": "tt36305647",
+  "豆瓣": "https://movie.douban.com/subject/38615701/",
+  "海报": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2935219346.jpg",
+  "豆瓣评分": "",
+  "不确定": []
+}

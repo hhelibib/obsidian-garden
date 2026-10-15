@@ -1,0 +1,64 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37272569",
+  "url": "https://movie.douban.com/subject/37272569/",
+  "中文名": "直到天亮",
+  "原名": "Straight On till Morning",
+  "上映年": "2025",
+  "上映日期": "2025-03-30",
+  "主要国家": "美国",
+  "制作国家": [
+    "美国"
+  ],
+  "导演": [
+    "Craig Ouellette"
+  ],
+  "编剧": [
+    "Craig Ouellette",
+    "Neal McLaughlin"
+  ],
+  "主演": [
+    "Kelsey Christian",
+    "Bonnie Jean Tyer",
+    "Maria Olsen"
+  ],
+  "人物": [
+    {
+      "id": "",
+      "姓名": "Craig Ouellette",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "Craig Ouellette",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Neal McLaughlin",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Kelsey Christian",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Bonnie Jean Tyer",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Maria Olsen",
+      "职位": "主演"
+    }
+  ],
+  "简介": "Dani and Kaitlin are two dreamers falling for each other on a romantic road-trip. The future is theirs - until they cross paths with a twisted family who have something much, much darker in mind.",
+  "又名": [],
+  "imdb": "tt8165076",
+  "豆瓣": "https://movie.douban.com/subject/37272569/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2919361078.jpg",
+  "豆瓣评分": "5.2",
+  "不确定": []
+}

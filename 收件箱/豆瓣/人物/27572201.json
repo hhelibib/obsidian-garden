@@ -1,0 +1,20 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "27572201",
+  "url": "https://www.douban.com/personage/27572201/",
+  "中文名": "张伟",
+  "原名": "Wei Zhang",
+  "出生": "1985-12-15",
+  "出生地": "中国,广东,深圳",
+  "国籍": [
+    "中国"
+  ],
+  "身份": [
+    "配音",
+    "演员"
+  ],
+  "imdb": "nm9204014",
+  "豆瓣": "https://www.douban.com/personage/27572201/",
+  "简介": "《熊出没》熊大配音。",
+  "照片": "https://img3.doubanio.com/view/personage/m/public/44282f67052235baf9da2f87fd7386ac.jpg"
+}

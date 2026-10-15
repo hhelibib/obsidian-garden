@@ -1,0 +1,58 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37293644",
+  "url": "https://movie.douban.com/subject/37293644/",
+  "中文名": "夜幕调查",
+  "原名": "Nightfall A Paranormal Investigation",
+  "上映年": "2025",
+  "上映日期": "2025-03-27",
+  "主要国家": "澳大利亚",
+  "制作国家": [
+    "澳大利亚"
+  ],
+  "导演": [
+    "Myles McEwen",
+    "Ripley Stevens"
+  ],
+  "编剧": [
+    "Myles McEwen"
+  ],
+  "主演": [
+    "Ripley Stevens",
+    "Myles McEwen"
+  ],
+  "人物": [
+    {
+      "id": "",
+      "姓名": "Myles McEwen",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "Ripley Stevens",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "Myles McEwen",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Ripley Stevens",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Myles McEwen",
+      "职位": "主演"
+    }
+  ],
+  "简介": "1988年6月6日，傍晚6点。两位年轻的超自然调查员重返伊丽莎白·布莱尔的住所。这是他们的第13号案件。",
+  "又名": [],
+  "imdb": "tt36348026",
+  "豆瓣": "https://movie.douban.com/subject/37293644/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2926382068.jpg",
+  "豆瓣评分": "",
+  "不确定": []
+}

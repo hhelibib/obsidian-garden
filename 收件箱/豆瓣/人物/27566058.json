@@ -1,0 +1,20 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "27566058",
+  "url": "https://www.douban.com/personage/27566058/",
+  "中文名": "樱井武晴",
+  "原名": "Takahiro Sakurai",
+  "出生": "1970",
+  "出生地": "日本,东京都",
+  "国籍": [
+    "日本"
+  ],
+  "身份": [
+    "编剧",
+    "作者"
+  ],
+  "imdb": "nm3464902",
+  "豆瓣": "https://www.douban.com/personage/27566058/",
+  "简介": "日本の脚本家",
+  "照片": "https://img3.doubanio.com/view/personage/m/public/56677e41aa53d845c8ba9a78ffa8bfe9.jpg"
+}

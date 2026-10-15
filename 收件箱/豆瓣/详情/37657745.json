@@ -1,0 +1,66 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37657745",
+  "url": "https://movie.douban.com/subject/37657745/",
+  "中文名": "驯服2",
+  "原名": "વશ Level 2",
+  "上映年": "2025",
+  "上映日期": "2025-08-27",
+  "主要国家": "印度",
+  "制作国家": [
+    "印度"
+  ],
+  "导演": [
+    "Yash Vaishnav",
+    "Krishnadev Yagnik"
+  ],
+  "编剧": [
+    "Krishnadev Yagnik"
+  ],
+  "主演": [
+    "Janki Bodiwala",
+    "Hitu Kanodia",
+    "Hiten Kumar"
+  ],
+  "人物": [
+    {
+      "id": "",
+      "姓名": "Yash Vaishnav",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "Krishnadev Yagnik",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "Krishnadev Yagnik",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Janki Bodiwala",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Hitu Kanodia",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Hiten Kumar",
+      "职位": "主演"
+    }
+  ],
+  "简介": "十二年后，阿萨瓦从黑暗势力中拯救了他的女儿阿莉娅，但他发现这些黑暗从未真正离开过她。当奇怪的事件再次发生时，他必须再次奋力保护她。",
+  "又名": [
+    "Vash Level 2"
+  ],
+  "imdb": "tt35529436",
+  "豆瓣": "https://movie.douban.com/subject/37657745/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2926057183.jpg",
+  "豆瓣评分": "6.0",
+  "不确定": []
+}

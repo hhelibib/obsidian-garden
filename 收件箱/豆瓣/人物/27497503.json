@@ -1,0 +1,21 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "27497503",
+  "url": "https://www.douban.com/personage/27497503/",
+  "中文名": "蒋龙",
+  "原名": "Long Jiang",
+  "出生": "1995-03-22",
+  "出生地": "辽宁省,沈阳市",
+  "国籍": [
+    "辽宁省"
+  ],
+  "身份": [
+    "演员",
+    "主持人",
+    "导演"
+  ],
+  "imdb": "nm7479469",
+  "豆瓣": "https://www.douban.com/personage/27497503/",
+  "简介": "中国大陆男演员，北京电影学院2012级表演系本科毕业。2004年，出演个人首部电视剧《长大成人》。2005年，参加“辽宁省第二届国际标准舞大赛”，获得拉丁舞一等奖。",
+  "照片": "https://img3.doubanio.com/view/personage/m/public/7e37713ea819ab1685b238243f7c4e4d.jpg"
+}

@@ -1,0 +1,174 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37039450",
+  "url": "https://movie.douban.com/subject/37039450/",
+  "中文名": "才华",
+  "原名": "El Talento",
+  "上映年": "2025",
+  "上映日期": "2025-09-05",
+  "主要国家": "西班牙",
+  "制作国家": [
+    "西班牙"
+  ],
+  "导演": [
+    "Polo Menárguez"
+  ],
+  "编剧": [
+    "费尔南多·莱昂·德·阿拉诺亚",
+    "Polo Menárguez",
+    "阿图尔·施尼茨勒"
+  ],
+  "主演": [
+    "艾斯特·爱珀斯托",
+    "佩德罗·卡萨布兰科",
+    "米蕾拉·巴里克",
+    "Juan Pablo Fuentes Acevedo",
+    "罗希欧·穆诺兹-科博",
+    "索尼娅·阿尔玛察",
+    "克拉拉·桑斯",
+    "卡洛斯·苏亚雷斯",
+    "玛尔塔·阿莱多",
+    "Diego Niski",
+    "Itziar Manero",
+    "Iñigo Larrinaga",
+    "Lydia Pavón",
+    "Markel Sainz",
+    "Andrea Nuñez",
+    "Asier Valdestilla García",
+    "Carmen Gomeza",
+    "Raül Supervia",
+    "乔恩·安德尔·乌雷斯蒂",
+    "Eriz Alberdi"
+  ],
+  "人物": [
+    {
+      "id": "38368435",
+      "姓名": "Polo Menárguez",
+      "职位": "导演"
+    },
+    {
+      "id": "27224218",
+      "姓名": "费尔南多·莱昂·德·阿拉诺亚",
+      "职位": "编剧"
+    },
+    {
+      "id": "38368435",
+      "姓名": "Polo Menárguez",
+      "职位": "编剧"
+    },
+    {
+      "id": "27254174",
+      "姓名": "阿图尔·施尼茨勒",
+      "职位": "编剧"
+    },
+    {
+      "id": "30347607",
+      "姓名": "艾斯特·爱珀斯托",
+      "职位": "主演"
+    },
+    {
+      "id": "27278433",
+      "姓名": "佩德罗·卡萨布兰科",
+      "职位": "主演"
+    },
+    {
+      "id": "36593917",
+      "姓名": "米蕾拉·巴里克",
+      "职位": "主演"
+    },
+    {
+      "id": "37020228",
+      "姓名": "Juan Pablo Fuentes Acevedo",
+      "职位": "主演"
+    },
+    {
+      "id": "30127286",
+      "姓名": "罗希欧·穆诺兹-科博",
+      "职位": "主演"
+    },
+    {
+      "id": "35856811",
+      "姓名": "索尼娅·阿尔玛察",
+      "职位": "主演"
+    },
+    {
+      "id": "36491955",
+      "姓名": "克拉拉·桑斯",
+      "职位": "主演"
+    },
+    {
+      "id": "36858372",
+      "姓名": "卡洛斯·苏亚雷斯",
+      "职位": "主演"
+    },
+    {
+      "id": "27530796",
+      "姓名": "玛尔塔·阿莱多",
+      "职位": "主演"
+    },
+    {
+      "id": "38368436",
+      "姓名": "Diego Niski",
+      "职位": "主演"
+    },
+    {
+      "id": "38368437",
+      "姓名": "Itziar Manero",
+      "职位": "主演"
+    },
+    {
+      "id": "27410673",
+      "姓名": "Iñigo Larrinaga",
+      "职位": "主演"
+    },
+    {
+      "id": "38368438",
+      "姓名": "Lydia Pavón",
+      "职位": "主演"
+    },
+    {
+      "id": "38368439",
+      "姓名": "Markel Sainz",
+      "职位": "主演"
+    },
+    {
+      "id": "38368440",
+      "姓名": "Andrea Nuñez",
+      "职位": "主演"
+    },
+    {
+      "id": "36758758",
+      "姓名": "Asier Valdestilla García",
+      "职位": "主演"
+    },
+    {
+      "id": "38368441",
+      "姓名": "Carmen Gomeza",
+      "职位": "主演"
+    },
+    {
+      "id": "38368442",
+      "姓名": "Raül Supervia",
+      "职位": "主演"
+    },
+    {
+      "id": "38368443",
+      "姓名": "乔恩·安德尔·乌雷斯蒂",
+      "职位": "主演"
+    },
+    {
+      "id": "38368444",
+      "姓名": "Eriz Alberdi",
+      "职位": "主演"
+    }
+  ],
+  "简介": "The film tells the story of a promising cello student, who is enjoying the exclusive birthday party of her friend Idoia, a showcase of high society, when she receives an unexpected call from her mother. What he asks of her will force Elsa to choose between her future and her dignity.",
+  "又名": [
+    "The Talent"
+  ],
+  "imdb": "tt33326026",
+  "豆瓣": "https://movie.douban.com/subject/37039450/",
+  "海报": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2928760701.jpg",
+  "豆瓣评分": "5.5",
+  "不确定": []
+}

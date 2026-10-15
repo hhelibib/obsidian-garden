@@ -1,0 +1,85 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37164928",
+  "url": "https://movie.douban.com/subject/37164928/",
+  "中文名": "寻常的梨",
+  "原名": "Navadna hruška",
+  "上映年": "2025",
+  "上映日期": "2025-01-30",
+  "主要国家": "斯洛文尼亚",
+  "制作国家": [
+    "斯洛文尼亚",
+    "英国"
+  ],
+  "导演": [
+    "格雷戈尔·博日奇"
+  ],
+  "编剧": [
+    "玛丽娜·古姆齐",
+    "格雷戈尔·博日奇"
+  ],
+  "主演": [
+    "Dora Ciccone",
+    "Jože Krečič",
+    "Jerneja Prinčič",
+    "Marijan Jug",
+    "Goran Kaličanin",
+    "Toby Matthews"
+  ],
+  "人物": [
+    {
+      "id": "34957201",
+      "姓名": "格雷戈尔·博日奇",
+      "职位": "导演"
+    },
+    {
+      "id": "37210845",
+      "姓名": "玛丽娜·古姆齐",
+      "职位": "编剧"
+    },
+    {
+      "id": "34957201",
+      "姓名": "格雷戈尔·博日奇",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Dora Ciccone",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Jože Krečič",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Jerneja Prinčič",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Marijan Jug",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Goran Kaličanin",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Toby Matthews",
+      "职位": "主演"
+    }
+  ],
+  "简介": "In a not-too-distant future ravaged by climate crisis, a team of scientists analyse the archival footage of farmers from the past, in an attempt to understand their connection to the land.",
+  "又名": [
+    "Common Pear"
+  ],
+  "imdb": "tt35220306",
+  "豆瓣": "https://movie.douban.com/subject/37164928/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2922859513.jpg",
+  "豆瓣评分": "",
+  "不确定": []
+}

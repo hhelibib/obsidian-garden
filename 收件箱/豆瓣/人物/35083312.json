@@ -1,0 +1,21 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "35083312",
+  "url": "https://www.douban.com/personage/35083312/",
+  "中文名": "罗翔",
+  "原名": "Xiang Luo",
+  "出生": "1977",
+  "出生地": "重庆",
+  "国籍": [
+    "重庆"
+  ],
+  "身份": [
+    "作者",
+    "编者",
+    "演员"
+  ],
+  "imdb": "nm12181254",
+  "豆瓣": "https://www.douban.com/personage/35083312/",
+  "简介": "刑法学人罗翔，中国政法大学教授厚大法考刑法独家教师。",
+  "照片": "https://img3.doubanio.com/view/personage/m/public/310380b94268ba65e38fc570674ae21c.jpg"
+}

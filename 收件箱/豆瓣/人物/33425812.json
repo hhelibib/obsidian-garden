@@ -1,0 +1,20 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "33425812",
+  "url": "https://www.douban.com/personage/33425812/",
+  "中文名": "汤姆·金斯利",
+  "原名": "Tom Kingsley",
+  "出生": "1985-11-18",
+  "出生地": "英国,伦敦",
+  "国籍": [
+    "英国"
+  ],
+  "身份": [
+    "导演",
+    "编剧"
+  ],
+  "imdb": "nm2444240",
+  "豆瓣": "https://www.douban.com/personage/33425812/",
+  "简介": "暂无",
+  "照片": "https://img3.doubanio.com/view/personage/m/public/826b8c8c8bab573eeda40a86ac5aac68.jpg"
+}

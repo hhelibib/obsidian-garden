@@ -1,0 +1,34 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37310876",
+  "url": "https://movie.douban.com/subject/37310876/",
+  "中文名": "伦敦大轰炸：英国抵抗故事",
+  "原名": "Britain and the blitz",
+  "上映年": "2025",
+  "上映日期": "2025-05-05",
+  "主要国家": "英国",
+  "制作国家": [
+    "英国"
+  ],
+  "导演": [
+    "Ella Wright"
+  ],
+  "编剧": [],
+  "主演": [],
+  "人物": [
+    {
+      "id": "",
+      "姓名": "Ella Wright",
+      "职位": "导演"
+    }
+  ],
+  "简介": "讲述英国平民在闪电战期间的经历。",
+  "又名": [
+    "英国与闪电战"
+  ],
+  "imdb": "tt36462227",
+  "豆瓣": "https://movie.douban.com/subject/37310876/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2921204713.jpg",
+  "豆瓣评分": "7.0",
+  "不确定": []
+}

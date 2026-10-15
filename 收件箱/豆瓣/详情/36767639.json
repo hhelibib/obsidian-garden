@@ -1,0 +1,169 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "36767639",
+  "url": "https://movie.douban.com/subject/36767639/",
+  "中文名": "不良爱恋",
+  "原名": "Mala influencia",
+  "上映年": "2025",
+  "上映日期": "2025-01-24",
+  "主要国家": "美国",
+  "制作国家": [
+    "美国",
+    "西班牙"
+  ],
+  "导演": [
+    "科洛·华莱士"
+  ],
+  "编剧": [
+    "科洛·华莱士",
+    "Diana Muro"
+  ],
+  "主演": [
+    "阿尔贝托·奥尔莫",
+    "伊莉娅·罗切拉",
+    "恩里克·阿尔切",
+    "米蕾拉·巴里克",
+    "Sara Ariño",
+    "Farid Bechara",
+    "费尔南多·弗拉加",
+    "Mar Isern",
+    "Selam Ortega",
+    "Clara Chaín",
+    "María José Mariscal",
+    "Olga Alamán",
+    "Toni H",
+    "Arnaud Préchac",
+    "Marta Yanci",
+    "Estefanía Doménech",
+    "Nayeli Eshun",
+    "Claudia Sola",
+    "Manuel Soler",
+    "Jorge Denim"
+  ],
+  "人物": [
+    {
+      "id": "37130772",
+      "姓名": "科洛·华莱士",
+      "职位": "导演"
+    },
+    {
+      "id": "37130772",
+      "姓名": "科洛·华莱士",
+      "职位": "编剧"
+    },
+    {
+      "id": "37347415",
+      "姓名": "Diana Muro",
+      "职位": "编剧"
+    },
+    {
+      "id": "37131085",
+      "姓名": "阿尔贝托·奥尔莫",
+      "职位": "主演"
+    },
+    {
+      "id": "37131079",
+      "姓名": "伊莉娅·罗切拉",
+      "职位": "主演"
+    },
+    {
+      "id": "27579639",
+      "姓名": "恩里克·阿尔切",
+      "职位": "主演"
+    },
+    {
+      "id": "36593917",
+      "姓名": "米蕾拉·巴里克",
+      "职位": "主演"
+    },
+    {
+      "id": "37347418",
+      "姓名": "Sara Ariño",
+      "职位": "主演"
+    },
+    {
+      "id": "36793808",
+      "姓名": "Farid Bechara",
+      "职位": "主演"
+    },
+    {
+      "id": "37347419",
+      "姓名": "费尔南多·弗拉加",
+      "职位": "主演"
+    },
+    {
+      "id": "37347421",
+      "姓名": "Mar Isern",
+      "职位": "主演"
+    },
+    {
+      "id": "36789883",
+      "姓名": "Selam Ortega",
+      "职位": "主演"
+    },
+    {
+      "id": "37347423",
+      "姓名": "Clara Chaín",
+      "职位": "主演"
+    },
+    {
+      "id": "37347424",
+      "姓名": "María José Mariscal",
+      "职位": "主演"
+    },
+    {
+      "id": "37347425",
+      "姓名": "Olga Alamán",
+      "职位": "主演"
+    },
+    {
+      "id": "37347426",
+      "姓名": "Toni H",
+      "职位": "主演"
+    },
+    {
+      "id": "36719344",
+      "姓名": "Arnaud Préchac",
+      "职位": "主演"
+    },
+    {
+      "id": "36157562",
+      "姓名": "Marta Yanci",
+      "职位": "主演"
+    },
+    {
+      "id": "37347427",
+      "姓名": "Estefanía Doménech",
+      "职位": "主演"
+    },
+    {
+      "id": "37347428",
+      "姓名": "Nayeli Eshun",
+      "职位": "主演"
+    },
+    {
+      "id": "37347429",
+      "姓名": "Claudia Sola",
+      "职位": "主演"
+    },
+    {
+      "id": "37347430",
+      "姓名": "Manuel Soler",
+      "职位": "主演"
+    },
+    {
+      "id": "37347431",
+      "姓名": "Jorge Denim",
+      "职位": "主演"
+    }
+  ],
+  "简介": "An orphan boy and a pampered rich-kid girl are trying to uncover secrets of the past to save their romance and their skin.",
+  "又名": [
+    "不良影响"
+  ],
+  "imdb": "tt23558084",
+  "豆瓣": "https://movie.douban.com/subject/36767639/",
+  "海报": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2921353331.jpg",
+  "豆瓣评分": "4.8",
+  "不确定": []
+}

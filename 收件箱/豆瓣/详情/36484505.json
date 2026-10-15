@@ -1,0 +1,94 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "36484505",
+  "url": "https://movie.douban.com/subject/36484505/",
+  "中文名": "天降之子",
+  "原名": "Zion",
+  "上映年": "2025",
+  "上映日期": "2025-04-09",
+  "主要国家": "法国",
+  "制作国家": [
+    "法国"
+  ],
+  "导演": [
+    "Nelson Foix"
+  ],
+  "编剧": [
+    "Nelson Foix",
+    "尼古拉斯·佩弗利特"
+  ],
+  "主演": [
+    "Sloan Descombes",
+    "Zebris",
+    "Axelle Delisle",
+    "Philippe Calodat",
+    "Don Snoop",
+    "Anthony Castagne",
+    "Mike Bureau",
+    "Lucile Kancel"
+  ],
+  "人物": [
+    {
+      "id": "",
+      "姓名": "Nelson Foix",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "Nelson Foix",
+      "职位": "编剧"
+    },
+    {
+      "id": "27589309",
+      "姓名": "尼古拉斯·佩弗利特",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Sloan Descombes",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Zebris",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Axelle Delisle",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Philippe Calodat",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Don Snoop",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Anthony Castagne",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Mike Bureau",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Lucile Kancel",
+      "职位": "主演"
+    }
+  ],
+  "简介": "The story revolves around 26-year-old Guadeloupian Chris, from Pointe-à-Pitre, who divides his time between crack deals in dark back alleys and getting his end away with young women. His talents as a biker one day catch the eye of Odell, a boss from a neighbouring area, who asks him to transport something in exchange for a shiny-new T-Max. But as soon as Chris accepts this dang...",
+  "又名": [],
+  "imdb": "tt30330486",
+  "豆瓣": "https://movie.douban.com/subject/36484505/",
+  "海报": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2918941096.jpg",
+  "豆瓣评分": "",
+  "不确定": []
+}

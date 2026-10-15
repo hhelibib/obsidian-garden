@@ -1,0 +1,21 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "27545315",
+  "url": "https://www.douban.com/personage/27545315/",
+  "中文名": "樊尚·马凯涅",
+  "原名": "Vincent Macaigne",
+  "出生": "1978-10-19",
+  "出生地": "法国",
+  "国籍": [
+    "法国"
+  ],
+  "身份": [
+    "演员",
+    "导演",
+    "编剧"
+  ],
+  "imdb": "nm0531195",
+  "豆瓣": "https://www.douban.com/personage/27545315/",
+  "简介": "Vincent Macaigne is an actor and writer, known for Tonnerre (2013), 2 automnes 3 hivers (2013) and La fille du 14 juillet (2013).",
+  "照片": "https://img3.doubanio.com/view/personage/m/public/2f05c64a7c564e25c2fc4446cb23a998.jpg"
+}

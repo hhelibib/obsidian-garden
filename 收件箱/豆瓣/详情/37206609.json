@@ -1,0 +1,104 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37206609",
+  "url": "https://movie.douban.com/subject/37206609/",
+  "中文名": "黑暗之心",
+  "原名": "第二季 Cœurs Noirs Season 2",
+  "上映年": "2025",
+  "上映日期": "2025-05-08",
+  "主要国家": "法国",
+  "制作国家": [
+    "法国"
+  ],
+  "导演": [
+    "弗雷德里克·雅尔丹"
+  ],
+  "编剧": [
+    "Duong Dang-Thaï",
+    "Corinne Garfin",
+    "Virginie Brac"
+  ],
+  "主演": [
+    "尼古拉斯·迪沃谢勒",
+    "玛丽·多普尼尔",
+    "尼娜·梅尔瑞斯",
+    "蒂埃里·戈达尔",
+    "帕特里克·米勒",
+    "路易斯·塞冈",
+    "Hugo Palomba",
+    "拉德万·勒弗拉西"
+  ],
+  "人物": [
+    {
+      "id": "27226934",
+      "姓名": "弗雷德里克·雅尔丹",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "Duong Dang-Thaï",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Corinne Garfin",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Virginie Brac",
+      "职位": "编剧"
+    },
+    {
+      "id": "27206257",
+      "姓名": "尼古拉斯·迪沃谢勒",
+      "职位": "主演"
+    },
+    {
+      "id": "36237069",
+      "姓名": "玛丽·多普尼尔",
+      "职位": "主演"
+    },
+    {
+      "id": "34978379",
+      "姓名": "尼娜·梅尔瑞斯",
+      "职位": "主演"
+    },
+    {
+      "id": "35171783",
+      "姓名": "蒂埃里·戈达尔",
+      "职位": "主演"
+    },
+    {
+      "id": "27542115",
+      "姓名": "帕特里克·米勒",
+      "职位": "主演"
+    },
+    {
+      "id": "36680139",
+      "姓名": "路易斯·塞冈",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Hugo Palomba",
+      "职位": "主演"
+    },
+    {
+      "id": "35511252",
+      "姓名": "拉德万·勒弗拉西",
+      "职位": "主演"
+    }
+  ],
+  "简介": "Dans cette saison 2 de Cœurs Noirs, le Groupe 45 des Forces Spéciales françaises est confronté à une mission devenue personnelle : libérer l’un des leurs, capturé par Daech. Alors que les combats contre l'organisation terroriste se poursuivent, la mission prend une dimension humaine et émotionnelle, transformant l'objectif initial en une quête de sauvetage intense. Ce groupe d'...",
+  "又名": [
+    "Coeurs Noirs",
+    "Dark Hearts",
+    "Black Hearts"
+  ],
+  "imdb": "tt36283497",
+  "豆瓣": "https://movie.douban.com/subject/37206609/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2921572398.jpg",
+  "豆瓣评分": "",
+  "不确定": []
+}

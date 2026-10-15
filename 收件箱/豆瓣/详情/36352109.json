@@ -1,0 +1,179 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "36352109",
+  "url": "https://movie.douban.com/subject/36352109/",
+  "中文名": "开端",
+  "原名": "Begyndelser",
+  "上映年": "2025",
+  "上映日期": "",
+  "主要国家": "丹麦",
+  "制作国家": [
+    "丹麦",
+    "瑞典",
+    "比利时",
+    "冰岛"
+  ],
+  "导演": [
+    "珍妮特·诺达尔"
+  ],
+  "编剧": [
+    "Rasmus Birch",
+    "珍妮特·诺达尔"
+  ],
+  "主演": [
+    "崔娜·蒂虹",
+    "大卫·丹席克",
+    "比约克·斯托姆",
+    "Luna Fuglsang Svelmøe",
+    "约翰·路易斯·施密特",
+    "Christine Gjerulff",
+    "Hanne Uldal",
+    "库尔特·德莱耶",
+    "Christopher Nallo",
+    "Frederik Malmose",
+    "Josva Engedal Jacobsen",
+    "Klaus Søndergaard",
+    "Andrea Enerstad Bolle",
+    "Alvin Bursøe",
+    "Karen Marie Holst Gudichsen",
+    "Noora Sofie Hjorth Biilmann",
+    "吉萨·莱尔曼",
+    "Sanne Saerens",
+    "Trine-Mathilde Linnebjerg",
+    "Karina Anov Chapman"
+  ],
+  "人物": [
+    {
+      "id": "34919721",
+      "姓名": "珍妮特·诺达尔",
+      "职位": "导演"
+    },
+    {
+      "id": "37666883",
+      "姓名": "Rasmus Birch",
+      "职位": "编剧"
+    },
+    {
+      "id": "34919721",
+      "姓名": "珍妮特·诺达尔",
+      "职位": "编剧"
+    },
+    {
+      "id": "27206499",
+      "姓名": "崔娜·蒂虹",
+      "职位": "主演"
+    },
+    {
+      "id": "27494820",
+      "姓名": "大卫·丹席克",
+      "职位": "主演"
+    },
+    {
+      "id": "38405746",
+      "姓名": "比约克·斯托姆",
+      "职位": "主演"
+    },
+    {
+      "id": "38409290",
+      "姓名": "Luna Fuglsang Svelmøe",
+      "职位": "主演"
+    },
+    {
+      "id": "27583823",
+      "姓名": "约翰·路易斯·施密特",
+      "职位": "主演"
+    },
+    {
+      "id": "37016535",
+      "姓名": "Christine Gjerulff",
+      "职位": "主演"
+    },
+    {
+      "id": "27361748",
+      "姓名": "Hanne Uldal",
+      "职位": "主演"
+    },
+    {
+      "id": "27291626",
+      "姓名": "库尔特·德莱耶",
+      "职位": "主演"
+    },
+    {
+      "id": "38409291",
+      "姓名": "Christopher Nallo",
+      "职位": "主演"
+    },
+    {
+      "id": "38409292",
+      "姓名": "Frederik Malmose",
+      "职位": "主演"
+    },
+    {
+      "id": "37220645",
+      "姓名": "Josva Engedal Jacobsen",
+      "职位": "主演"
+    },
+    {
+      "id": "37281113",
+      "姓名": "Klaus Søndergaard",
+      "职位": "主演"
+    },
+    {
+      "id": "38409293",
+      "姓名": "Andrea Enerstad Bolle",
+      "职位": "主演"
+    },
+    {
+      "id": "36740188",
+      "姓名": "Alvin Bursøe",
+      "职位": "主演"
+    },
+    {
+      "id": "38409294",
+      "姓名": "Karen Marie Holst Gudichsen",
+      "职位": "主演"
+    },
+    {
+      "id": "38409295",
+      "姓名": "Noora Sofie Hjorth Biilmann",
+      "职位": "主演"
+    },
+    {
+      "id": "37049805",
+      "姓名": "吉萨·莱尔曼",
+      "职位": "主演"
+    },
+    {
+      "id": "36613991",
+      "姓名": "Sanne Saerens",
+      "职位": "主演"
+    },
+    {
+      "id": "38409296",
+      "姓名": "Trine-Mathilde Linnebjerg",
+      "职位": "主演"
+    },
+    {
+      "id": "38409297",
+      "姓名": "Karina Anov Chapman",
+      "职位": "主演"
+    }
+  ],
+  "简介": "安妮和托马斯正处于离婚边缘，这时安妮发生了中风，迫使他们不得不继续住在一起，并推迟了告诉孩子们他们即将分开的消息。面对这一新的现实，两人在最意想不到的地方找到了希望。",
+  "又名": [
+    "Beginnings"
+  ],
+  "imdb": "tt32144178",
+  "豆瓣": "https://movie.douban.com/subject/36352109/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2917856107.jpg",
+  "豆瓣评分": "6.6",
+  "不确定": [
+    {
+      "主题": "上映日期",
+      "说法": [
+        "2025-02-17",
+        "2026-01-15"
+      ]
+    }
+  ]
+}

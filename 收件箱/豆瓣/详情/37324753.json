@@ -1,0 +1,57 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37324753",
+  "url": "https://movie.douban.com/subject/37324753/",
+  "中文名": "致命婚姻：美国逆伦案之谜",
+  "原名": "A Deadly American Marriage",
+  "上映年": "2025",
+  "上映日期": "2025-05-09",
+  "主要国家": "英国",
+  "制作国家": [
+    "英国"
+  ],
+  "导演": [
+    "Jessica Burgess",
+    "珍妮·波普尔韦尔"
+  ],
+  "编剧": [],
+  "主演": [
+    "Jones Byrd",
+    "Doug Kingsbery",
+    "David Lynch"
+  ],
+  "人物": [
+    {
+      "id": "",
+      "姓名": "Jessica Burgess",
+      "职位": "导演"
+    },
+    {
+      "id": "35221347",
+      "姓名": "珍妮·波普尔韦尔",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "Jones Byrd",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Doug Kingsbery",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "David Lynch",
+      "职位": "主演"
+    }
+  ],
+  "简介": "谋杀还是自卫？这部纪录片从双方视角出发，探讨了杰森·科贝特在与妻子和岳父争执时被杀的事件。",
+  "又名": [],
+  "imdb": "tt36592065",
+  "豆瓣": "https://movie.douban.com/subject/37324753/",
+  "海报": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2921353146.jpg",
+  "豆瓣评分": "6.5",
+  "不确定": []
+}

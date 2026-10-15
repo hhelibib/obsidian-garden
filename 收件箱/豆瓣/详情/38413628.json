@@ -1,0 +1,57 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "38413628",
+  "url": "https://movie.douban.com/subject/38413628/",
+  "中文名": "货币的故事",
+  "原名": "La fabuleuse histoire de l'argent",
+  "上映年": "2025",
+  "上映日期": "",
+  "主要国家": "中国大陆",
+  "制作国家": [
+    "中国大陆",
+    "法国"
+  ],
+  "导演": [
+    "弗里德里克·维尔纳 Frédéric Wilner",
+    "胡博 HuBo",
+    "张木 ZhangMu"
+  ],
+  "编剧": [],
+  "主演": [],
+  "人物": [
+    {
+      "id": "",
+      "姓名": "弗里德里克·维尔纳 Frédéric Wilner",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "胡博 HuBo",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "张木 ZhangMu",
+      "职位": "导演"
+    }
+  ],
+  "简介": "中法合拍纪录片《货币的故事》通过大量珍贵的历史文物和最新的考古发现，展现货币在人类文明进程中潜移默化的影响。从货币最初的诞生到东西方不同的发展演变之路，直至当下货币的虚拟化趋势，本片以丰富多元的表现手法和故事化的讲述方式生动解读货币对人类带来的机遇和挑战，为当代社会提供了独特的视角和深刻的思考。\n第1集：人类发明了货币\n第2集：帝国时代\n第3集：中国之路\n第4集：货币的虚拟化",
+  "又名": [
+    "Die fabelhafte Geschichte des Geldes",
+    "The Fabulous History of Money",
+    "The Fabulous Story of Money"
+  ],
+  "imdb": "tt39059945",
+  "豆瓣": "https://movie.douban.com/subject/38413628/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931404218.jpg",
+  "豆瓣评分": "",
+  "不确定": [
+    {
+      "主题": "上映日期",
+      "说法": [
+        "2026-03-27",
+        "2025-11-29"
+      ]
+    }
+  ]
+}

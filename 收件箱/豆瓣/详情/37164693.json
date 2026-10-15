@@ -1,0 +1,39 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37164693",
+  "url": "https://movie.douban.com/subject/37164693/",
+  "中文名": "长生不死：硅谷富豪的逆龄人生",
+  "原名": "Don't Die: The Man Who Wants to Live Forever",
+  "上映年": "2025",
+  "上映日期": "2025-01-01",
+  "主要国家": "美国",
+  "制作国家": [
+    "美国"
+  ],
+  "导演": [
+    "克里斯·史密斯"
+  ],
+  "编剧": [],
+  "主演": [
+    "Bryan Johnson"
+  ],
+  "人物": [
+    {
+      "id": "27526138",
+      "姓名": "克里斯·史密斯",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "Bryan Johnson",
+      "职位": "主演"
+    }
+  ],
+  "简介": "探讨了一名男子对永生的追求以及他为抗拒衰老所付出的种种努力。",
+  "又名": [],
+  "imdb": "tt34977130",
+  "豆瓣": "https://movie.douban.com/subject/37164693/",
+  "海报": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2916828774.jpg",
+  "豆瓣评分": "6.9",
+  "不确定": []
+}

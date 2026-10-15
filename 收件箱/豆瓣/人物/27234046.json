@@ -1,0 +1,21 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "27234046",
+  "url": "https://www.douban.com/personage/27234046/",
+  "中文名": "安东尼斯‧卡非祖罗普斯",
+  "原名": "Antonis Kafetzopoulos",
+  "出生": "1951-10-13",
+  "出生地": "伊斯坦布尔,土耳其",
+  "国籍": [
+    "伊斯坦布尔"
+  ],
+  "身份": [
+    "演员",
+    "导演",
+    "编剧"
+  ],
+  "imdb": "nm0434511",
+  "豆瓣": "https://www.douban.com/personage/27234046/",
+  "简介": "希腊演员，曾获洛迦诺国际电影节最佳男主角",
+  "照片": "https://img3.doubanio.com/view/personage/m/public/64b75dac396e8d5538bc57893b674358.jpg"
+}

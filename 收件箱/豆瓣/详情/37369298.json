@@ -1,0 +1,178 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37369298",
+  "url": "https://movie.douban.com/subject/37369298/",
+  "中文名": "被记住事物的气味",
+  "原名": "A Memória do Cheiro das Coisas",
+  "上映年": "2025",
+  "上映日期": "",
+  "主要国家": "葡萄牙",
+  "制作国家": [
+    "葡萄牙",
+    "巴西"
+  ],
+  "导演": [
+    "安东尼奥·费雷拉"
+  ],
+  "编剧": [
+    "Tiago Cravidão",
+    "安东尼奥·费雷拉"
+  ],
+  "主演": [
+    "若泽·马丁斯",
+    "米娜·安达拉",
+    "Cláudia Carvalho",
+    "Zeca Carvalho",
+    "João Damasceno",
+    "Pedro Lamas",
+    "Paula Barata",
+    "Robson Lemos",
+    "Carlos Dias",
+    "Ricardo Vaz Trindade",
+    "Fernando Rui Damasceno",
+    "Teosson Chau",
+    "Maria Manuel Almeida",
+    "José Castela",
+    "Paula Furtado",
+    "Sofia Coelho",
+    "Maria José Almeida",
+    "Luís Ferreira",
+    "Francisco Paz",
+    "Isabel Craveiro"
+  ],
+  "人物": [
+    {
+      "id": "27243393",
+      "姓名": "安东尼奥·费雷拉",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "Tiago Cravidão",
+      "职位": "编剧"
+    },
+    {
+      "id": "27243393",
+      "姓名": "安东尼奥·费雷拉",
+      "职位": "编剧"
+    },
+    {
+      "id": "37374859",
+      "姓名": "若泽·马丁斯",
+      "职位": "主演"
+    },
+    {
+      "id": "27385306",
+      "姓名": "米娜·安达拉",
+      "职位": "主演"
+    },
+    {
+      "id": "37374860",
+      "姓名": "Cláudia Carvalho",
+      "职位": "主演"
+    },
+    {
+      "id": "37374861",
+      "姓名": "Zeca Carvalho",
+      "职位": "主演"
+    },
+    {
+      "id": "37374862",
+      "姓名": "João Damasceno",
+      "职位": "主演"
+    },
+    {
+      "id": "37374863",
+      "姓名": "Pedro Lamas",
+      "职位": "主演"
+    },
+    {
+      "id": "37374864",
+      "姓名": "Paula Barata",
+      "职位": "主演"
+    },
+    {
+      "id": "37374865",
+      "姓名": "Robson Lemos",
+      "职位": "主演"
+    },
+    {
+      "id": "37374866",
+      "姓名": "Carlos Dias",
+      "职位": "主演"
+    },
+    {
+      "id": "37374867",
+      "姓名": "Ricardo Vaz Trindade",
+      "职位": "主演"
+    },
+    {
+      "id": "37374868",
+      "姓名": "Fernando Rui Damasceno",
+      "职位": "主演"
+    },
+    {
+      "id": "37374869",
+      "姓名": "Teosson Chau",
+      "职位": "主演"
+    },
+    {
+      "id": "37374870",
+      "姓名": "Maria Manuel Almeida",
+      "职位": "主演"
+    },
+    {
+      "id": "37374871",
+      "姓名": "José Castela",
+      "职位": "主演"
+    },
+    {
+      "id": "37374872",
+      "姓名": "Paula Furtado",
+      "职位": "主演"
+    },
+    {
+      "id": "37374873",
+      "姓名": "Sofia Coelho",
+      "职位": "主演"
+    },
+    {
+      "id": "37374874",
+      "姓名": "Maria José Almeida",
+      "职位": "主演"
+    },
+    {
+      "id": "37374875",
+      "姓名": "Luís Ferreira",
+      "职位": "主演"
+    },
+    {
+      "id": "37374876",
+      "姓名": "Francisco Paz",
+      "职位": "主演"
+    },
+    {
+      "id": "37374878",
+      "姓名": "Isabel Craveiro",
+      "职位": "主演"
+    }
+  ],
+  "简介": "年迈的葡萄牙殖民战争老兵被迫入住养老院，在与黑人护工赫米妮亚的相处中，不得不直面昔日战争的阴影，并在衰老与孤独中获得意外的慰籍。葡萄牙导演安东尼奥·费雷拉延续其标志性风格，在养老院这一被忽视的空间内，探讨人类处境的脆弱、死亡的必然与对救赎的渴望。",
+  "又名": [
+    "The Scent of Things Remembered",
+    "Arménio"
+  ],
+  "imdb": "tt32430402",
+  "豆瓣": "https://movie.douban.com/subject/37369298/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2926442029.jpg",
+  "豆瓣评分": "6.9",
+  "不确定": [
+    {
+      "主题": "上映日期",
+      "说法": [
+        "2025-06-15",
+        "2025-11-06"
+      ]
+    }
+  ]
+}

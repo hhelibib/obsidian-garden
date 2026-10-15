@@ -1,0 +1,60 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "38911919",
+  "url": "https://movie.douban.com/subject/38911919/",
+  "中文名": "时间轴的阴谋",
+  "原名": "Timeline",
+  "上映年": "2025",
+  "上映日期": "2025-12-01",
+  "主要国家": "美国",
+  "制作国家": [
+    "美国"
+  ],
+  "导演": [
+    "George Kaplan"
+  ],
+  "编剧": [
+    "George Kaplan"
+  ],
+  "主演": [
+    "Alex Kraft",
+    "Rabbani Kaur",
+    "Bryan Barron"
+  ],
+  "人物": [
+    {
+      "id": "",
+      "姓名": "George Kaplan",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "George Kaplan",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Alex Kraft",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Rabbani Kaur",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Bryan Barron",
+      "职位": "主演"
+    }
+  ],
+  "简介": "时间是唯一的证人，而他就是抹去时间的人…一名量子物理系学生发现宇宙由七条平行时间线支配，而他心爱的女孩的前男友在每一条时间线中都想杀死她。为了保住性命，他必须为自己和心爱的女孩而战。",
+  "又名": [
+    "The Time Vortex"
+  ],
+  "imdb": "tt33733323",
+  "豆瓣": "https://movie.douban.com/subject/38911919/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2936237139.jpg",
+  "豆瓣评分": "",
+  "不确定": []
+}

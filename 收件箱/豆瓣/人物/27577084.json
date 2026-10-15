@@ -1,0 +1,21 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "27577084",
+  "url": "https://www.douban.com/personage/27577084/",
+  "中文名": "马大明",
+  "原名": "Daming Ma",
+  "出生": "1987-12-11",
+  "出生地": "中国,辽宁,沈阳",
+  "国籍": [
+    "中国"
+  ],
+  "身份": [
+    "演员",
+    "副导演",
+    "剪辑"
+  ],
+  "imdb": "nm8507548",
+  "豆瓣": "https://www.douban.com/personage/27577084/",
+  "简介": "中国内地演员，导演",
+  "照片": "https://img9.doubanio.com/view/personage/m/public/2daf329e8e7ee51b6a1ce57d41d22954.jpg"
+}

@@ -1,0 +1,19 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "34866708",
+  "url": "https://www.douban.com/personage/34866708/",
+  "中文名": "张伟丽",
+  "原名": "Weili Zhang",
+  "出生": "1989-08-13",
+  "出生地": "中国,河北,邯郸",
+  "国籍": [
+    "中国"
+  ],
+  "身份": [
+    "演员"
+  ],
+  "imdb": "nm10045419",
+  "豆瓣": "https://www.douban.com/personage/34866708/",
+  "简介": "UFC第一个中国女子冠军",
+  "照片": "https://img3.doubanio.com/view/personage/m/public/9458d2cc2b07180aa0a4ef6b2e74ac58.jpg"
+}

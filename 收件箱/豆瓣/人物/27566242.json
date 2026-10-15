@@ -1,0 +1,21 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "27566242",
+  "url": "https://www.douban.com/personage/27566242/",
+  "中文名": "张巍",
+  "原名": "Wei Zhang",
+  "出生": "1977-06-27",
+  "出生地": "中国,陕西,西安",
+  "国籍": [
+    "中国"
+  ],
+  "身份": [
+    "编剧",
+    "制片人",
+    "作者"
+  ],
+  "imdb": "nm8530840",
+  "豆瓣": "https://www.douban.com/personage/27566242/",
+  "简介": "北京电影学院教授。",
+  "照片": "https://img9.doubanio.com/view/personage/m/public/f9a57d37ca62511ef48b273a6d264444.jpg"
+}

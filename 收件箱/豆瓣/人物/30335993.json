@@ -1,0 +1,21 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "30335993",
+  "url": "https://www.douban.com/personage/30335993/",
+  "中文名": "刘宇宁",
+  "原名": "Yuning Liu",
+  "出生": "1987-01-08",
+  "出生地": "中国,辽宁,丹东",
+  "国籍": [
+    "中国"
+  ],
+  "身份": [
+    "演员",
+    "音乐",
+    "配音"
+  ],
+  "imdb": "nm10933931",
+  "豆瓣": "https://www.douban.com/personage/30335993/",
+  "简介": "中国内地流行乐男歌手、影视演员，摩登兄弟乐队主唱。",
+  "照片": "https://img3.doubanio.com/view/personage/m/public/5038538178866c34cb6a5ecbf142d7f8.jpg"
+}

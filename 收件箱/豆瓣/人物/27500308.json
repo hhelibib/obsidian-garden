@@ -1,0 +1,22 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "27500308",
+  "url": "https://www.douban.com/personage/27500308/",
+  "中文名": "罗晋",
+  "原名": "Jin Luo",
+  "出生": "1981-11-30",
+  "出生地": "中国,江西,宜春",
+  "国籍": [
+    "中国"
+  ],
+  "身份": [
+    "演员",
+    "制片人",
+    "作者",
+    "音乐人"
+  ],
+  "imdb": "nm2950480",
+  "豆瓣": "https://www.douban.com/personage/27500308/",
+  "简介": "毕业于北京电影学院的罗晋之前一直活跃在荧屏上，除了在《三国》中扮演汉献帝外，为观众熟悉的电视剧作品还有《美人心计》《梦幻天堂》等。",
+  "照片": "https://img3.doubanio.com/view/personage/m/public/0fb573489acd3e5c6a0c53303b4ea45b.jpg"
+}

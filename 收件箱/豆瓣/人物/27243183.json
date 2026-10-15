@@ -1,0 +1,21 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "27243183",
+  "url": "https://www.douban.com/personage/27243183/",
+  "中文名": "佐藤浩市",
+  "原名": "Kôichi Satô",
+  "出生": "1960-12-10",
+  "出生地": "日本,东京",
+  "国籍": [
+    "日本"
+  ],
+  "身份": [
+    "演员",
+    "配音",
+    "导演"
+  ],
+  "imdb": "nm0766233",
+  "豆瓣": "https://www.douban.com/personage/27243183/",
+  "简介": "为啥他叫浩市呢，因为他父亲和著名电影导演稲垣浩和市川崑是私交甚笃，所以在两人姓名中各取一字给孩子命名。",
+  "照片": "https://img9.doubanio.com/view/personage/m/public/2056265384cc0730e85f9ff4141954b5.jpg"
+}

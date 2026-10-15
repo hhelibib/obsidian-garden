@@ -1,0 +1,22 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "27569024",
+  "url": "https://www.douban.com/personage/27569024/",
+  "中文名": "森七菜",
+  "原名": "Nana Mori",
+  "出生": "2001-08-31",
+  "出生地": "日本,大分",
+  "国籍": [
+    "日本"
+  ],
+  "身份": [
+    "演员",
+    "配音",
+    "作者",
+    "音乐人"
+  ],
+  "imdb": "nm10030720",
+  "豆瓣": "https://www.douban.com/personage/27569024/",
+  "简介": "00后新生代日本女演员。",
+  "照片": "https://img9.doubanio.com/view/personage/m/public/40f70265aec30ef6e6e3e8bfb9ab0c15.jpg"
+}

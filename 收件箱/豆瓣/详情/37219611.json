@@ -1,0 +1,54 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37219611",
+  "url": "https://movie.douban.com/subject/37219611/",
+  "中文名": "你好，贝蒂",
+  "原名": "Hallo Betty",
+  "上映年": "2025",
+  "上映日期": "",
+  "主要国家": "瑞士",
+  "制作国家": [
+    "瑞士"
+  ],
+  "导演": [
+    "Pierre Monnard"
+  ],
+  "编剧": [
+    "André Küttel"
+  ],
+  "主演": [
+    "Sarah Spale",
+    "马丁·维舍尔"
+  ],
+  "人物": [
+    {
+      "id": "27533881",
+      "姓名": "Pierre Monnard",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "André Küttel",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Sarah Spale",
+      "职位": "主演"
+    },
+    {
+      "id": "36364222",
+      "姓名": "马丁·维舍尔",
+      "职位": "主演"
+    }
+  ],
+  "简介": "For Switzerland, Betty Bossi is sort of a mother of the nation. She first appeared in 1956 as the embodiment of a witty and, above all, “perfect” housewife. She is the author of countless cookbooks and the dispenser of endless advice on housekeeping. It's rare for a Swiss household not to have at least a small collection of these publications. With the advent of the internet, m...",
+  "又名": [
+    "Hello Betty"
+  ],
+  "imdb": "tt35453057",
+  "豆瓣": "https://movie.douban.com/subject/37219611/",
+  "海报": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2926375925.jpg",
+  "豆瓣评分": "",
+  "不确定": []
+}

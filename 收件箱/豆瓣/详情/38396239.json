@@ -1,0 +1,34 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "38396239",
+  "url": "https://movie.douban.com/subject/38396239/",
+  "中文名": "Des Gens Vivent Ici",
+  "原名": "",
+  "上映年": "2025",
+  "上映日期": "2025-05-15",
+  "主要国家": "加拿大",
+  "制作国家": [
+    "加拿大"
+  ],
+  "导演": [
+    "Gabrielle Côté"
+  ],
+  "编剧": [],
+  "主演": [],
+  "人物": [
+    {
+      "id": "36834206",
+      "姓名": "Gabrielle Côté",
+      "职位": "导演"
+    }
+  ],
+  "简介": "This experimental documentary explores Montreal's urbanity through a montage-collage of its architecture. Balancing heritage and modernity, it questions gentrification dynamics, inequalities, and the evolution of the urban landscape.",
+  "又名": [
+    "People Live Here"
+  ],
+  "imdb": "",
+  "豆瓣": "https://movie.douban.com/subject/38396239/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933284883.jpg",
+  "豆瓣评分": "",
+  "不确定": []
+}

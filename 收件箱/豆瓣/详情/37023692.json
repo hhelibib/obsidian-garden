@@ -1,0 +1,136 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37023692",
+  "url": "https://movie.douban.com/subject/37023692/",
+  "中文名": "麻痹",
+  "原名": "Paralysis",
+  "上映年": "2025",
+  "上映日期": "2025-08-04",
+  "主要国家": "美国",
+  "制作国家": [
+    "美国"
+  ],
+  "导演": [
+    "路易·曼迪勒"
+  ],
+  "编剧": [
+    "尼科·福斯特",
+    "Sophia Louisa"
+  ],
+  "主演": [
+    "Raf Adame",
+    "Rosalinda Aguilar",
+    "Tony K Nine Bentajado",
+    "Mark Bracich",
+    "Jeremiah Brannan",
+    "Amber Brennan",
+    "Brook Brennan",
+    "Tayeshon Brooks",
+    "迈克尔·科彭",
+    "Samantha Soeun Cosby",
+    "Nathan Lawrence Critchett",
+    "Oscar Antonio Damasco",
+    "彼得·道博森",
+    "Mandi Hesse",
+    "DaVyne Hopkins"
+  ],
+  "人物": [
+    {
+      "id": "27255583",
+      "姓名": "路易·曼迪勒",
+      "职位": "导演"
+    },
+    {
+      "id": "36850118",
+      "姓名": "尼科·福斯特",
+      "职位": "编剧"
+    },
+    {
+      "id": "38592784",
+      "姓名": "Sophia Louisa",
+      "职位": "编剧"
+    },
+    {
+      "id": "38592785",
+      "姓名": "Raf Adame",
+      "职位": "主演"
+    },
+    {
+      "id": "38592786",
+      "姓名": "Rosalinda Aguilar",
+      "职位": "主演"
+    },
+    {
+      "id": "38592787",
+      "姓名": "Tony K Nine Bentajado",
+      "职位": "主演"
+    },
+    {
+      "id": "38592788",
+      "姓名": "Mark Bracich",
+      "职位": "主演"
+    },
+    {
+      "id": "38592789",
+      "姓名": "Jeremiah Brannan",
+      "职位": "主演"
+    },
+    {
+      "id": "38592790",
+      "姓名": "Amber Brennan",
+      "职位": "主演"
+    },
+    {
+      "id": "38592791",
+      "姓名": "Brook Brennan",
+      "职位": "主演"
+    },
+    {
+      "id": "38592792",
+      "姓名": "Tayeshon Brooks",
+      "职位": "主演"
+    },
+    {
+      "id": "27246355",
+      "姓名": "迈克尔·科彭",
+      "职位": "主演"
+    },
+    {
+      "id": "38592793",
+      "姓名": "Samantha Soeun Cosby",
+      "职位": "主演"
+    },
+    {
+      "id": "38592794",
+      "姓名": "Nathan Lawrence Critchett",
+      "职位": "主演"
+    },
+    {
+      "id": "38592795",
+      "姓名": "Oscar Antonio Damasco",
+      "职位": "主演"
+    },
+    {
+      "id": "27215218",
+      "姓名": "彼得·道博森",
+      "职位": "主演"
+    },
+    {
+      "id": "38592796",
+      "姓名": "Mandi Hesse",
+      "职位": "主演"
+    },
+    {
+      "id": "38592797",
+      "姓名": "DaVyne Hopkins",
+      "职位": "主演"
+    }
+  ],
+  "简介": "名为“麻痹”的新型毒品席卷整座城市，吸食者药效上头时会陷入极度狂暴的状态，犯下大量无差别暴力案件，药效退去后则会陷入全身瘫痪。医院挤满了无辜受害者，民间义警也在街头大行私刑，整个城市彻底沦为暴力的温床。两名基层警察临危受命，誓要在毒品彻底泛滥之前，端掉背后的制毒贩毒团伙，掐断整条罪恶供应链。",
+  "又名": [],
+  "imdb": "tt32196677",
+  "豆瓣": "https://movie.douban.com/subject/37023692/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934810408.jpg",
+  "豆瓣评分": "",
+  "不确定": []
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "38221364",
+  "url": "https://movie.douban.com/subject/38221364/",
+  "中文名": "他的心魔",
+  "原名": "His Monster",
+  "上映年": "2025",
+  "上映日期": "",
+  "主要国家": "美国",
+  "制作国家": [
+    "美国"
+  ],
+  "导演": [
+    "Erich Cannon"
+  ],
+  "编剧": [
+    "Erich Cannon",
+    "Nathan D. Lee"
+  ],
+  "主演": [
+    "Gabriel Casdorph",
+    "米兰达·朗",
+    "Ashley Song"
+  ],
+  "人物": [
+    {
+      "id": "27473891",
+      "姓名": "Erich Cannon",
+      "职位": "导演"
+    },
+    {
+      "id": "27473891",
+      "姓名": "Erich Cannon",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Nathan D. Lee",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Gabriel Casdorph",
+      "职位": "主演"
+    },
+    {
+      "id": "30388091",
+      "姓名": "米兰达·朗",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Ashley Song",
+      "职位": "主演"
+    }
+  ],
+  "简介": "When his young daughter is mysteriously swept out to sea, a struggling alcoholic remains alone, hunting the woods to find what he believes is responsible.",
+  "又名": [],
+  "imdb": "tt28595505",
+  "豆瓣": "https://movie.douban.com/subject/38221364/",
+  "海报": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2929328294.jpg",
+  "豆瓣评分": "",
+  "不确定": []
+}

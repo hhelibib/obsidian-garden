@@ -1,0 +1,133 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "36817189",
+  "url": "https://movie.douban.com/subject/36817189/",
+  "中文名": "放飞",
+  "原名": "Uncontained",
+  "上映年": "2025",
+  "上映日期": "2025-03-11",
+  "主要国家": "美国",
+  "制作国家": [
+    "美国"
+  ],
+  "导演": [
+    "Morley Nelson"
+  ],
+  "编剧": [
+    "Morley Nelson"
+  ],
+  "主演": [
+    "Morley Nelson",
+    "彼特·奥梅拉",
+    "海莉·勒布郎",
+    "Patricia Carlson",
+    "Nicholas Collins",
+    "Chad David",
+    "克里斯托斯·卡拉博贾斯",
+    "Benjamin Ledinsky",
+    "Shannon Mack",
+    "Scott McClure",
+    "Brooke Nelson",
+    "Jack Nelson",
+    "Nicole Nelson",
+    "考特尼·B·特克",
+    "布莱特·季默曼"
+  ],
+  "人物": [
+    {
+      "id": "37384016",
+      "姓名": "Morley Nelson",
+      "职位": "导演"
+    },
+    {
+      "id": "37384016",
+      "姓名": "Morley Nelson",
+      "职位": "编剧"
+    },
+    {
+      "id": "37384016",
+      "姓名": "Morley Nelson",
+      "职位": "主演"
+    },
+    {
+      "id": "27247082",
+      "姓名": "彼特·奥梅拉",
+      "职位": "主演"
+    },
+    {
+      "id": "36197201",
+      "姓名": "海莉·勒布郎",
+      "职位": "主演"
+    },
+    {
+      "id": "37384017",
+      "姓名": "Patricia Carlson",
+      "职位": "主演"
+    },
+    {
+      "id": "37384018",
+      "姓名": "Nicholas Collins",
+      "职位": "主演"
+    },
+    {
+      "id": "37384019",
+      "姓名": "Chad David",
+      "职位": "主演"
+    },
+    {
+      "id": "36471437",
+      "姓名": "克里斯托斯·卡拉博贾斯",
+      "职位": "主演"
+    },
+    {
+      "id": "37384020",
+      "姓名": "Benjamin Ledinsky",
+      "职位": "主演"
+    },
+    {
+      "id": "37384021",
+      "姓名": "Shannon Mack",
+      "职位": "主演"
+    },
+    {
+      "id": "37384022",
+      "姓名": "Scott McClure",
+      "职位": "主演"
+    },
+    {
+      "id": "37384023",
+      "姓名": "Brooke Nelson",
+      "职位": "主演"
+    },
+    {
+      "id": "37384024",
+      "姓名": "Jack Nelson",
+      "职位": "主演"
+    },
+    {
+      "id": "37384025",
+      "姓名": "Nicole Nelson",
+      "职位": "主演"
+    },
+    {
+      "id": "30217669",
+      "姓名": "考特尼·B·特克",
+      "职位": "主演"
+    },
+    {
+      "id": "27491757",
+      "姓名": "布莱特·季默曼",
+      "职位": "主演"
+    }
+  ],
+  "简介": "Deep in a wintry forest, an abandoned boy struggles to protect his little sister from an infection that turns people into a feral-like state, a ruthless militia leader searching for his missing daughter, and Government agents hunting them.",
+  "又名": [
+    "自由放飞",
+    "不受控"
+  ],
+  "imdb": "tt17278866",
+  "豆瓣": "https://movie.douban.com/subject/36817189/",
+  "海报": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2905805205.jpg",
+  "豆瓣评分": "5.5",
+  "不确定": []
+}

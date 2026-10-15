@@ -1,0 +1,21 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "27545120",
+  "url": "https://www.douban.com/personage/27545120/",
+  "中文名": "马特·约翰逊",
+  "原名": "Matt Johnson",
+  "出生": "1985-10-05",
+  "出生地": "加拿大,安大略,多伦多",
+  "国籍": [
+    "加拿大"
+  ],
+  "身份": [
+    "演员",
+    "导演",
+    "编剧"
+  ],
+  "imdb": "nm4798740",
+  "豆瓣": "https://www.douban.com/personage/27545120/",
+  "简介": "Matt Johnson is an actor and director, known for The Dirties (2013), Operation Avalanche (2016) and How Heavy This Hammer (2015).",
+  "照片": "https://img3.doubanio.com/view/personage/m/public/715cc96dc283570d67fc7b7deb7b6d48.jpg"
+}

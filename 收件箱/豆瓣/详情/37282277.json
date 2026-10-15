@@ -1,0 +1,82 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37282277",
+  "url": "https://movie.douban.com/subject/37282277/",
+  "中文名": "失去理智",
+  "原名": "Perdiendo el juicio",
+  "上映年": "2025",
+  "上映日期": "2025-03-23",
+  "主要国家": "西班牙",
+  "制作国家": [
+    "西班牙"
+  ],
+  "导演": [
+    "海梅·奥利亚斯",
+    "María Togores",
+    "Pablo Guerrero"
+  ],
+  "编剧": [
+    "Susana López Rubio",
+    "Javier Holgado",
+    "海梅·奥利亚斯"
+  ],
+  "主演": [
+    "埃莱娜·里维拉",
+    "黛芙娜·费尔南德斯",
+    "米格尔·费南德斯"
+  ],
+  "人物": [
+    {
+      "id": "27550256",
+      "姓名": "海梅·奥利亚斯",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "María Togores",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "Pablo Guerrero",
+      "职位": "导演"
+    },
+    {
+      "id": "27253159",
+      "姓名": "Susana López Rubio",
+      "职位": "编剧"
+    },
+    {
+      "id": "27429352",
+      "姓名": "Javier Holgado",
+      "职位": "编剧"
+    },
+    {
+      "id": "27550256",
+      "姓名": "海梅·奥利亚斯",
+      "职位": "编剧"
+    },
+    {
+      "id": "27352028",
+      "姓名": "埃莱娜·里维拉",
+      "职位": "主演"
+    },
+    {
+      "id": "27291493",
+      "姓名": "黛芙娜·费尔南德斯",
+      "职位": "主演"
+    },
+    {
+      "id": "27433514",
+      "姓名": "米格尔·费南德斯",
+      "职位": "主演"
+    }
+  ],
+  "简介": "“Perdiendo el juicio,” follows a respected lawyer whose career is turned upside down after a serious OCD outburst during a trial.",
+  "又名": [],
+  "imdb": "tt33059022",
+  "豆瓣": "https://movie.douban.com/subject/37282277/",
+  "海报": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2919658304.jpg",
+  "豆瓣评分": "7.9",
+  "不确定": []
+}

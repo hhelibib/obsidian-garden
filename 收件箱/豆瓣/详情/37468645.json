@@ -1,0 +1,170 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37468645",
+  "url": "https://movie.douban.com/subject/37468645/",
+  "中文名": "现代浪女",
+  "原名": "Modern Whore",
+  "上映年": "2025",
+  "上映日期": "",
+  "主要国家": "加拿大",
+  "制作国家": [
+    "加拿大"
+  ],
+  "导演": [
+    "Nicole Bazuin"
+  ],
+  "编剧": [
+    "Nicole Bazuin",
+    "安德里娅·韦尔亨"
+  ],
+  "主演": [
+    "安德里娅·韦尔亨",
+    "Patrick Groe",
+    "Paul Thomas Forrest",
+    "Claudio Musso",
+    "格温·阿朵拉",
+    "Richard Botell",
+    "Carole Brown",
+    "Mylene Carino",
+    "Francesco De Francesco",
+    "Sandra Dorélas",
+    "怀亚特·多里昂",
+    "Alexander Duque",
+    "Tom Finn",
+    "Casey Fleming",
+    "Daniel Griffin",
+    "Tim McKee",
+    "Jeff Moss",
+    "Jake Purdy",
+    "Quinton Neufeldt"
+  ],
+  "人物": [
+    {
+      "id": "38408478",
+      "姓名": "Nicole Bazuin",
+      "职位": "导演"
+    },
+    {
+      "id": "38408478",
+      "姓名": "Nicole Bazuin",
+      "职位": "编剧"
+    },
+    {
+      "id": "37497848",
+      "姓名": "安德里娅·韦尔亨",
+      "职位": "编剧"
+    },
+    {
+      "id": "37497848",
+      "姓名": "安德里娅·韦尔亨",
+      "职位": "主演"
+    },
+    {
+      "id": "38408462",
+      "姓名": "Patrick Groe",
+      "职位": "主演"
+    },
+    {
+      "id": "38408463",
+      "姓名": "Paul Thomas Forrest",
+      "职位": "主演"
+    },
+    {
+      "id": "38408464",
+      "姓名": "Claudio Musso",
+      "职位": "主演"
+    },
+    {
+      "id": "36315572",
+      "姓名": "格温·阿朵拉",
+      "职位": "主演"
+    },
+    {
+      "id": "38408465",
+      "姓名": "Richard Botell",
+      "职位": "主演"
+    },
+    {
+      "id": "38408466",
+      "姓名": "Carole Brown",
+      "职位": "主演"
+    },
+    {
+      "id": "38408467",
+      "姓名": "Mylene Carino",
+      "职位": "主演"
+    },
+    {
+      "id": "38408468",
+      "姓名": "Francesco De Francesco",
+      "职位": "主演"
+    },
+    {
+      "id": "38408469",
+      "姓名": "Sandra Dorélas",
+      "职位": "主演"
+    },
+    {
+      "id": "36800260",
+      "姓名": "怀亚特·多里昂",
+      "职位": "主演"
+    },
+    {
+      "id": "38408470",
+      "姓名": "Alexander Duque",
+      "职位": "主演"
+    },
+    {
+      "id": "38408471",
+      "姓名": "Tom Finn",
+      "职位": "主演"
+    },
+    {
+      "id": "38408472",
+      "姓名": "Casey Fleming",
+      "职位": "主演"
+    },
+    {
+      "id": "38408473",
+      "姓名": "Daniel Griffin",
+      "职位": "主演"
+    },
+    {
+      "id": "38408474",
+      "姓名": "Tim McKee",
+      "职位": "主演"
+    },
+    {
+      "id": "38408475",
+      "姓名": "Jeff Moss",
+      "职位": "主演"
+    },
+    {
+      "id": "38408476",
+      "姓名": "Jake Purdy",
+      "职位": "主演"
+    },
+    {
+      "id": "38408477",
+      "姓名": "Quinton Neufeldt",
+      "职位": "主演"
+    }
+  ],
+  "简介": "Andrea Werhun as she portrays her past roles as escort Mary Ann, stripper Sophia, and her OnlyFans presence - all part of her Toronto sex work journey.",
+  "又名": [
+    "现代妓女"
+  ],
+  "imdb": "tt37619362",
+  "豆瓣": "https://movie.douban.com/subject/37468645/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2934884973.jpg",
+  "豆瓣评分": "",
+  "不确定": [
+    {
+      "主题": "上映日期",
+      "说法": [
+        "2025-09-05",
+        "2026-05-01"
+      ]
+    }
+  ]
+}

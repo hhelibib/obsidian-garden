@@ -1,0 +1,150 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37242398",
+  "url": "https://movie.douban.com/subject/37242398/",
+  "中文名": "侍女之道",
+  "原名": "Manual Para Señoritas",
+  "上映年": "2025",
+  "上映日期": "2025-03-28",
+  "主要国家": "西班牙",
+  "制作国家": [
+    "西班牙"
+  ],
+  "导演": [
+    "卡洛斯·塞德斯",
+    "克劳迪亚·平托"
+  ],
+  "编剧": [
+    "盖马·R·内拉",
+    "María José Rustarazo",
+    "Salvador S. Serrano",
+    "Sara Alquézar",
+    "Ricardo Jornet"
+  ],
+  "主演": [
+    "阿尔瓦罗·梅尔",
+    "纳迪娅·德·圣地亚哥",
+    "Isa Montalbán",
+    "佐伊·博纳丰特",
+    "Iratxe Emparán",
+    "特里斯坦·乌罗阿",
+    "卡洛托·科塔",
+    "宝拉·乌塞罗",
+    "Candela Pradas",
+    "玛丽亚·巴兰科",
+    "Itziar Manero",
+    "玛丽亚·卡巴雷诺",
+    "格拉西亚·奥拉约"
+  ],
+  "人物": [
+    {
+      "id": "30189986",
+      "姓名": "卡洛斯·塞德斯",
+      "职位": "导演"
+    },
+    {
+      "id": "27544091",
+      "姓名": "克劳迪亚·平托",
+      "职位": "导演"
+    },
+    {
+      "id": "33476984",
+      "姓名": "盖马·R·内拉",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "María José Rustarazo",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Salvador S. Serrano",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Sara Alquézar",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Ricardo Jornet",
+      "职位": "编剧"
+    },
+    {
+      "id": "30287747",
+      "姓名": "阿尔瓦罗·梅尔",
+      "职位": "主演"
+    },
+    {
+      "id": "27402193",
+      "姓名": "纳迪娅·德·圣地亚哥",
+      "职位": "主演"
+    },
+    {
+      "id": "37004540",
+      "姓名": "Isa Montalbán",
+      "职位": "主演"
+    },
+    {
+      "id": "37232033",
+      "姓名": "佐伊·博纳丰特",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Iratxe Emparán",
+      "职位": "主演"
+    },
+    {
+      "id": "27251067",
+      "姓名": "特里斯坦·乌罗阿",
+      "职位": "主演"
+    },
+    {
+      "id": "27499710",
+      "姓名": "卡洛托·科塔",
+      "职位": "主演"
+    },
+    {
+      "id": "35331183",
+      "姓名": "宝拉·乌塞罗",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Candela Pradas",
+      "职位": "主演"
+    },
+    {
+      "id": "27268396",
+      "姓名": "玛丽亚·巴兰科",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Itziar Manero",
+      "职位": "主演"
+    },
+    {
+      "id": "36573477",
+      "姓名": "玛丽亚·卡巴雷诺",
+      "职位": "主演"
+    },
+    {
+      "id": "27521809",
+      "姓名": "格拉西亚·奥拉约",
+      "职位": "主演"
+    }
+  ],
+  "简介": "Madrid, 1880. Elena Bianda is the most sought-after lady-in-waiting in the entire city. Despite her youth, more than 20 ladies have already had decent courtships and courtships under her tutelage. Her success lies in being rigid in morality with their families and sensitive to the concerns of the ladies. A complicated balance that Elena handles perfectly. She was born for it: s...",
+  "又名": [
+    "The Lady’s Companion"
+  ],
+  "imdb": "tt31092106",
+  "豆瓣": "https://movie.douban.com/subject/37242398/",
+  "海报": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2919294076.jpg",
+  "豆瓣评分": "7.1",
+  "不确定": []
+}

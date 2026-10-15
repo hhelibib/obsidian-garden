@@ -1,0 +1,187 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "36841507",
+  "url": "https://movie.douban.com/subject/36841507/",
+  "中文名": "大卫",
+  "原名": "David",
+  "上映年": "2025",
+  "上映日期": "2025-12-19",
+  "主要国家": "南非",
+  "制作国家": [
+    "南非",
+    "美国"
+  ],
+  "导演": [
+    "Phil Cunningham",
+    "Brent Dawes"
+  ],
+  "编剧": [
+    "Brent Dawes",
+    "Kyle Portbury",
+    "Sam Wilson"
+  ],
+  "主演": [
+    "菲尔·威肯",
+    "阿西姆·乔杜里",
+    "米克·温格特",
+    "阿什利·博彻",
+    "马克·惠顿",
+    "布伦特·穆卡伊",
+    "Brandon Engman",
+    "Kamran Nikhad",
+    "Reina Ozbay",
+    "Will de Renzy-Martin",
+    "亚当·迈克尔·戈尔德",
+    "亚当·梅尔",
+    "Lauren Daigle",
+    "Mark Jacobson",
+    "凯蒂·伯恩斯坦",
+    "Brian Stivale",
+    "Sloan Muldown",
+    "马克·西尔弗曼",
+    "Mike Ciporkin",
+    "Dorah Fine",
+    "沙哈尔·塔沃赫"
+  ],
+  "人物": [
+    {
+      "id": "38228479",
+      "姓名": "Phil Cunningham",
+      "职位": "导演"
+    },
+    {
+      "id": "38228480",
+      "姓名": "Brent Dawes",
+      "职位": "导演"
+    },
+    {
+      "id": "38228480",
+      "姓名": "Brent Dawes",
+      "职位": "编剧"
+    },
+    {
+      "id": "38228481",
+      "姓名": "Kyle Portbury",
+      "职位": "编剧"
+    },
+    {
+      "id": "38228482",
+      "姓名": "Sam Wilson",
+      "职位": "编剧"
+    },
+    {
+      "id": "35686313",
+      "姓名": "菲尔·威肯",
+      "职位": "主演"
+    },
+    {
+      "id": "30415213",
+      "姓名": "阿西姆·乔杜里",
+      "职位": "主演"
+    },
+    {
+      "id": "27410363",
+      "姓名": "米克·温格特",
+      "职位": "主演"
+    },
+    {
+      "id": "27494307",
+      "姓名": "阿什利·博彻",
+      "职位": "主演"
+    },
+    {
+      "id": "38175712",
+      "姓名": "马克·惠顿",
+      "职位": "主演"
+    },
+    {
+      "id": "37494065",
+      "姓名": "布伦特·穆卡伊",
+      "职位": "主演"
+    },
+    {
+      "id": "37869981",
+      "姓名": "Brandon Engman",
+      "职位": "主演"
+    },
+    {
+      "id": "38228489",
+      "姓名": "Kamran Nikhad",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Reina Ozbay",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Will de Renzy-Martin",
+      "职位": "主演"
+    },
+    {
+      "id": "37504817",
+      "姓名": "亚当·迈克尔·戈尔德",
+      "职位": "主演"
+    },
+    {
+      "id": "27447109",
+      "姓名": "亚当·梅尔",
+      "职位": "主演"
+    },
+    {
+      "id": "37305934",
+      "姓名": "Lauren Daigle",
+      "职位": "主演"
+    },
+    {
+      "id": "36592128",
+      "姓名": "Mark Jacobson",
+      "职位": "主演"
+    },
+    {
+      "id": "36737331",
+      "姓名": "凯蒂·伯恩斯坦",
+      "职位": "主演"
+    },
+    {
+      "id": "37270028",
+      "姓名": "Brian Stivale",
+      "职位": "主演"
+    },
+    {
+      "id": "36744613",
+      "姓名": "Sloan Muldown",
+      "职位": "主演"
+    },
+    {
+      "id": "36548479",
+      "姓名": "马克·西尔弗曼",
+      "职位": "主演"
+    },
+    {
+      "id": "38228487",
+      "姓名": "Mike Ciporkin",
+      "职位": "主演"
+    },
+    {
+      "id": "36658682",
+      "姓名": "Dorah Fine",
+      "职位": "主演"
+    },
+    {
+      "id": "36902202",
+      "姓名": "沙哈尔·塔沃赫",
+      "职位": "主演"
+    }
+  ],
+  "简介": "From his mother's songs to his clash with Goliath, David's journey from humble shepherd to anointed king tests the limits of faith, courage, and love-culminating in a battle for the soul of a kingdom.",
+  "又名": [
+    "大卫：王者降临(台)"
+  ],
+  "imdb": "tt15678738",
+  "豆瓣": "https://movie.douban.com/subject/36841507/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2927747240.jpg",
+  "豆瓣评分": "6.2",
+  "不确定": []
+}

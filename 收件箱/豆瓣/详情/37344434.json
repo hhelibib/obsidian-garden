@@ -1,0 +1,72 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37344434",
+  "url": "https://movie.douban.com/subject/37344434/",
+  "中文名": "无法抗拒的爱",
+  "原名": "Player ไม่อาจห้ามรัก",
+  "上映年": "2025",
+  "上映日期": "2025-10-03",
+  "主要国家": "泰国",
+  "制作国家": [
+    "泰国"
+  ],
+  "导演": [
+    "帕那雷·卢西拉南塔"
+  ],
+  "编剧": [
+    "Pawin Yeamkleep",
+    "Achita Pognam",
+    "Ninart Boonpothong",
+    "Kanyachan Sasom"
+  ],
+  "主演": [
+    "阿曼娜·古尔",
+    "Memi Muanfun"
+  ],
+  "人物": [
+    {
+      "id": "37661538",
+      "姓名": "帕那雷·卢西拉南塔",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "Pawin Yeamkleep",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Achita Pognam",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Ninart Boonpothong",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Kanyachan Sasom",
+      "职位": "编剧"
+    },
+    {
+      "id": "27569606",
+      "姓名": "阿曼娜·古尔",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Memi Muanfun",
+      "职位": "主演"
+    }
+  ],
+  "简介": "刚从国外留学回来的年轻平面设计师“潘”必须调查偷走她钱财的假丈夫“佩塔亚”。 她的目标是“Ploy”，Petaya 的神秘妹妹。 但在这场魅力游戏中，究竟谁才是受害者？谁才是真正的老虎？",
+  "又名": [
+    "Player Yuri Series"
+  ],
+  "imdb": "tt38622725",
+  "豆瓣": "https://movie.douban.com/subject/37344434/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2927437292.jpg",
+  "豆瓣评分": "8.1",
+  "不确定": []
+}

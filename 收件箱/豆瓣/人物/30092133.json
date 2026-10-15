@@ -1,0 +1,21 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "30092133",
+  "url": "https://www.douban.com/personage/30092133/",
+  "中文名": "郑执",
+  "原名": "Zhi Zheng",
+  "出生": "1987-04-29",
+  "出生地": "中国,辽宁,沈阳",
+  "国籍": [
+    "中国"
+  ],
+  "身份": [
+    "作者",
+    "编剧",
+    "导演"
+  ],
+  "imdb": "nm11132008",
+  "豆瓣": "https://www.douban.com/personage/30092133/",
+  "简介": "郑执，作家，导演，编剧。1987年出生于辽宁沈阳。十九岁写作至今，已出版多部长篇小说、中短篇小说集。",
+  "照片": "https://img3.doubanio.com/view/personage/m/public/ab471c9cc2cddba75acc574fe1966533.jpg"
+}

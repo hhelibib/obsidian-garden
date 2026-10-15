@@ -1,0 +1,52 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "36995350",
+  "url": "https://movie.douban.com/subject/36995350/",
+  "中文名": "血腥网球",
+  "原名": "Bloody Tennis",
+  "上映年": "2025",
+  "上映日期": "",
+  "主要国家": "德国",
+  "制作国家": [
+    "德国"
+  ],
+  "导演": [
+    "尼基亚斯·克里斯索斯"
+  ],
+  "编剧": [
+    "尼基亚斯·克里斯索斯"
+  ],
+  "主演": [
+    "桑德拉·古尔贝尔·坎普",
+    "苏西·本巴"
+  ],
+  "人物": [
+    {
+      "id": "27431817",
+      "姓名": "尼基亚斯·克里斯索斯",
+      "职位": "导演"
+    },
+    {
+      "id": "27431817",
+      "姓名": "尼基亚斯·克里斯索斯",
+      "职位": "编剧"
+    },
+    {
+      "id": "35184596",
+      "姓名": "桑德拉·古尔贝尔·坎普",
+      "职位": "主演"
+    },
+    {
+      "id": "36363065",
+      "姓名": "苏西·本巴",
+      "职位": "主演"
+    }
+  ],
+  "简介": "16-year-old Sophie is accepted into an elite tennis academy in Spain. But the price for success as the best tennis player in the world is high and may even claim her life.",
+  "又名": [],
+  "imdb": "tt34735922",
+  "豆瓣": "https://movie.douban.com/subject/36995350/",
+  "海报": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2935303614.jpg",
+  "豆瓣评分": "",
+  "不确定": []
+}

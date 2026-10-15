@@ -1,0 +1,76 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37442893",
+  "url": "https://movie.douban.com/subject/37442893/",
+  "中文名": "莫里哀：音乐剧",
+  "原名": "Molière, le spectacle musical",
+  "上映年": "2025",
+  "上映日期": "2025-02-27",
+  "主要国家": "法国",
+  "制作国家": [
+    "法国"
+  ],
+  "导演": [
+    "Ladislas Chollat"
+  ],
+  "编剧": [
+    "Dove Attia",
+    "Rod Janois"
+  ],
+  "主演": [
+    "David Alexis",
+    "Abi Bernadoth",
+    "Lou Jean",
+    "Shaina Pronzola",
+    "Tommy Tremblay"
+  ],
+  "人物": [
+    {
+      "id": "37668761",
+      "姓名": "Ladislas Chollat",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "Dove Attia",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Rod Janois",
+      "职位": "编剧"
+    },
+    {
+      "id": "37668762",
+      "姓名": "David Alexis",
+      "职位": "主演"
+    },
+    {
+      "id": "37668763",
+      "姓名": "Abi Bernadoth",
+      "职位": "主演"
+    },
+    {
+      "id": "37668764",
+      "姓名": "Lou Jean",
+      "职位": "主演"
+    },
+    {
+      "id": "37668765",
+      "姓名": "Shaina Pronzola",
+      "职位": "主演"
+    },
+    {
+      "id": "37668766",
+      "姓名": "Tommy Tremblay",
+      "职位": "主演"
+    }
+  ],
+  "简介": "",
+  "又名": [],
+  "imdb": "tt36061999",
+  "豆瓣": "https://movie.douban.com/subject/37442893/",
+  "海报": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2923562695.jpg",
+  "豆瓣评分": "8.6",
+  "不确定": []
+}

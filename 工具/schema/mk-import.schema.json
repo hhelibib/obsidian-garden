@@ -1,0 +1,58 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "mk-import/1",
+  "title": "mk-import/1",
+  "type": "object",
+  "additionalProperties": true,
+  "required": ["schema", "award_records"],
+  "properties": {
+    "schema": { "const": "mk-import/1" },
+    "query": { "type": "string" },
+    "generated_at": { "type": "string" },
+    "producer": { "type": "string" },
+    "award_records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["奖项", "颁奖年", "奖项名", "结果", "影片检索名", "sources"],
+        "properties": {
+          "奖项": {
+            "enum": ["奥斯卡金像奖", "金球奖", "英国电影学院奖", "戛纳电影节", "威尼斯电影节", "柏林电影节"]
+          },
+          "颁奖年": { "type": "integer" },
+          "届次": { "type": ["integer", "null"] },
+          "奖项名": { "type": "string" },
+          "结果": { "enum": ["获奖", "提名"] },
+          "影片检索名": { "type": "string" },
+          "sources": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "object",
+              "required": ["url"],
+              "properties": {
+                "title": { "type": "string" },
+                "url": { "type": "string" }
+              }
+            }
+          }
+        }
+      }
+    },
+    "images": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["role", "ownerType", "owner", "url"],
+        "properties": {
+          "role": { "enum": ["标识", "典礼", "海报", "画面", "照片"] },
+          "ownerType": { "enum": ["奖项", "影片", "人物"] },
+          "owner": { "type": "string" },
+          "year": { "type": ["integer", "null"] },
+          "url": { "type": "string" }
+        }
+      }
+    },
+    "uncertainties": { "type": "array" }
+  }
+}

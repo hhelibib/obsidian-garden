@@ -1,0 +1,142 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37509038",
+  "url": "https://movie.douban.com/subject/37509038/",
+  "中文名": "康普茶",
+  "原名": "Kombucha",
+  "上映年": "2025",
+  "上映日期": "2025-06-27",
+  "主要国家": "美国",
+  "制作国家": [
+    "美国"
+  ],
+  "导演": [
+    "Jake Myers"
+  ],
+  "编剧": [
+    "Geoff Bakken",
+    "Jake Myers"
+  ],
+  "主演": [
+    "Zoe Agapinan",
+    "查琳·阿尔瓦雷斯",
+    "Rachel Benson",
+    "Zachary Bernat",
+    "Paige Bourne",
+    "Terrence Carey",
+    "Magdalena Conway",
+    "Lili Galluzzo",
+    "Armand Grant",
+    "T.J. Jagodowski",
+    "Jesse Kendall",
+    "Claire McFadden",
+    "Mark Raterman",
+    "Ashton Reech",
+    "Ethan Tarlow",
+    "Kai Young"
+  ],
+  "人物": [
+    {
+      "id": "37933640",
+      "姓名": "Jake Myers",
+      "职位": "导演"
+    },
+    {
+      "id": "37933644",
+      "姓名": "Geoff Bakken",
+      "职位": "编剧"
+    },
+    {
+      "id": "37933640",
+      "姓名": "Jake Myers",
+      "职位": "编剧"
+    },
+    {
+      "id": "37933646",
+      "姓名": "Zoe Agapinan",
+      "职位": "主演"
+    },
+    {
+      "id": "37502778",
+      "姓名": "查琳·阿尔瓦雷斯",
+      "职位": "主演"
+    },
+    {
+      "id": "37933648",
+      "姓名": "Rachel Benson",
+      "职位": "主演"
+    },
+    {
+      "id": "37933649",
+      "姓名": "Zachary Bernat",
+      "职位": "主演"
+    },
+    {
+      "id": "37933651",
+      "姓名": "Paige Bourne",
+      "职位": "主演"
+    },
+    {
+      "id": "37933653",
+      "姓名": "Terrence Carey",
+      "职位": "主演"
+    },
+    {
+      "id": "37933655",
+      "姓名": "Magdalena Conway",
+      "职位": "主演"
+    },
+    {
+      "id": "37933656",
+      "姓名": "Lili Galluzzo",
+      "职位": "主演"
+    },
+    {
+      "id": "37933658",
+      "姓名": "Armand Grant",
+      "职位": "主演"
+    },
+    {
+      "id": "27417237",
+      "姓名": "T.J. Jagodowski",
+      "职位": "主演"
+    },
+    {
+      "id": "37933660",
+      "姓名": "Jesse Kendall",
+      "职位": "主演"
+    },
+    {
+      "id": "37933662",
+      "姓名": "Claire McFadden",
+      "职位": "主演"
+    },
+    {
+      "id": "37933664",
+      "姓名": "Mark Raterman",
+      "职位": "主演"
+    },
+    {
+      "id": "37933665",
+      "姓名": "Ashton Reech",
+      "职位": "主演"
+    },
+    {
+      "id": "37933667",
+      "姓名": "Ethan Tarlow",
+      "职位": "主演"
+    },
+    {
+      "id": "37933669",
+      "姓名": "Kai Young",
+      "职位": "主演"
+    }
+  ],
+  "简介": "这是一种名叫康普茶的饮料，它可以改变人的思维，使员工工作到死。",
+  "又名": [],
+  "imdb": "tt33305815",
+  "豆瓣": "https://movie.douban.com/subject/37509038/",
+  "海报": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2927878686.jpg",
+  "豆瓣评分": "4.6",
+  "不确定": []
+}

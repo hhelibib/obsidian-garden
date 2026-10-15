@@ -1,0 +1,22 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "30204625",
+  "url": "https://www.douban.com/personage/30204625/",
+  "中文名": "福本莉子",
+  "原名": "Riko Fukumoto",
+  "出生": "2000-11-25",
+  "出生地": "日本,大阪",
+  "国籍": [
+    "日本"
+  ],
+  "身份": [
+    "演员",
+    "配音",
+    "作者",
+    "音乐人"
+  ],
+  "imdb": "nm9956891",
+  "豆瓣": "https://www.douban.com/personage/30204625/",
+  "简介": "第8回「東宝シンデレラ」オーディション グランプリ",
+  "照片": "https://img2.doubanio.com/view/personage/m/public/77fc14f0b22d6c157638f14d9a85ac3e.jpg"
+}

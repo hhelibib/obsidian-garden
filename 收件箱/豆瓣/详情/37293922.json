@@ -1,0 +1,186 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37293922",
+  "url": "https://movie.douban.com/subject/37293922/",
+  "中文名": "疯狂的佛牌",
+  "原名": "เดอะสโตน พระแท้ คนเก๊",
+  "上映年": "2025",
+  "上映日期": "2025-04-03",
+  "主要国家": "泰国",
+  "制作国家": [
+    "泰国"
+  ],
+  "导演": [
+    "亚瑞克·阿莫苏帕西瑞",
+    "Vuthipong Sukhanindr"
+  ],
+  "编剧": [
+    "亚瑞克·阿莫苏帕西瑞",
+    "Kittikun Chattongkum",
+    "巴域·普瑞克潘也",
+    "Vuthipong Sukhanindr"
+  ],
+  "主演": [
+    "金杰特·瓦塔纳辛",
+    "格兰妮·拉素冰帕索尔",
+    "伊特克隆·蓬吉阿特鲁萨梅",
+    "Chulachak Chakrabongse",
+    "纳帕·戈马拉昆",
+    "Nantawooti Boonrapsap",
+    "塔纳波尔·丘克瑞达",
+    "Ethan Fé",
+    "Narubet Jinpinpetch",
+    "Jerapann Kampan",
+    "Chanoksuda Lertvananont",
+    "Sirakoop Madhanee",
+    "Issara Nadee",
+    "Sampao Nakaiam",
+    "Putthipong Naktong",
+    "隆纳西·尼苏",
+    "Krisana Panpeng",
+    "Somjet Phayakso",
+    "Ratchai Rujiwipatna",
+    "Worarat Sawatdipisan"
+  ],
+  "人物": [
+    {
+      "id": "27495087",
+      "姓名": "亚瑞克·阿莫苏帕西瑞",
+      "职位": "导演"
+    },
+    {
+      "id": "37462895",
+      "姓名": "Vuthipong Sukhanindr",
+      "职位": "导演"
+    },
+    {
+      "id": "27495087",
+      "姓名": "亚瑞克·阿莫苏帕西瑞",
+      "职位": "编剧"
+    },
+    {
+      "id": "37462896",
+      "姓名": "Kittikun Chattongkum",
+      "职位": "编剧"
+    },
+    {
+      "id": "27540259",
+      "姓名": "巴域·普瑞克潘也",
+      "职位": "编剧"
+    },
+    {
+      "id": "37462895",
+      "姓名": "Vuthipong Sukhanindr",
+      "职位": "编剧"
+    },
+    {
+      "id": "34951298",
+      "姓名": "金杰特·瓦塔纳辛",
+      "职位": "主演"
+    },
+    {
+      "id": "35591762",
+      "姓名": "格兰妮·拉素冰帕索尔",
+      "职位": "主演"
+    },
+    {
+      "id": "37342906",
+      "姓名": "伊特克隆·蓬吉阿特鲁萨梅",
+      "职位": "主演"
+    },
+    {
+      "id": "37462898",
+      "姓名": "Chulachak Chakrabongse",
+      "职位": "主演"
+    },
+    {
+      "id": "27586117",
+      "姓名": "纳帕·戈马拉昆",
+      "职位": "主演"
+    },
+    {
+      "id": "37462899",
+      "姓名": "Nantawooti Boonrapsap",
+      "职位": "主演"
+    },
+    {
+      "id": "27575220",
+      "姓名": "塔纳波尔·丘克瑞达",
+      "职位": "主演"
+    },
+    {
+      "id": "37462900",
+      "姓名": "Ethan Fé",
+      "职位": "主演"
+    },
+    {
+      "id": "37462901",
+      "姓名": "Narubet Jinpinpetch",
+      "职位": "主演"
+    },
+    {
+      "id": "37462902",
+      "姓名": "Jerapann Kampan",
+      "职位": "主演"
+    },
+    {
+      "id": "37462904",
+      "姓名": "Chanoksuda Lertvananont",
+      "职位": "主演"
+    },
+    {
+      "id": "37462905",
+      "姓名": "Sirakoop Madhanee",
+      "职位": "主演"
+    },
+    {
+      "id": "37462906",
+      "姓名": "Issara Nadee",
+      "职位": "主演"
+    },
+    {
+      "id": "37462908",
+      "姓名": "Sampao Nakaiam",
+      "职位": "主演"
+    },
+    {
+      "id": "37285737",
+      "姓名": "Putthipong Naktong",
+      "职位": "主演"
+    },
+    {
+      "id": "36699321",
+      "姓名": "隆纳西·尼苏",
+      "职位": "主演"
+    },
+    {
+      "id": "27578417",
+      "姓名": "Krisana Panpeng",
+      "职位": "主演"
+    },
+    {
+      "id": "37462909",
+      "姓名": "Somjet Phayakso",
+      "职位": "主演"
+    },
+    {
+      "id": "37462910",
+      "姓名": "Ratchai Rujiwipatna",
+      "职位": "主演"
+    },
+    {
+      "id": "37462912",
+      "姓名": "Worarat Sawatdipisan",
+      "职位": "主演"
+    }
+  ],
+  "简介": "消失30年的传奇“真佛牌”重现江湖！一位为筹钱救治父亲而寻宝的年轻人，意外成为这枚佛牌的新主人。一场价值数亿泰铢的惊天赌局就此引爆，各方势力机关算尽、暗藏杀机，只为争夺这枚至高无上的圣物。",
+  "又名": [
+    "The Stone"
+  ],
+  "imdb": "tt36436506",
+  "豆瓣": "https://movie.douban.com/subject/37293922/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2922926169.jpg",
+  "豆瓣评分": "5.3",
+  "不确定": []
+}

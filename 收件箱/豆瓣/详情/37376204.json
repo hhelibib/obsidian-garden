@@ -1,0 +1,60 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37376204",
+  "url": "https://movie.douban.com/subject/37376204/",
+  "中文名": "守护恶魔",
+  "原名": "Út Lan: Oán Linh Giữ Của",
+  "上映年": "2025",
+  "上映日期": "2025-06-20",
+  "主要国家": "越南",
+  "制作国家": [
+    "越南"
+  ],
+  "导演": [
+    "Dan Trong Tran"
+  ],
+  "编剧": [
+    "Dan Trong Tran"
+  ],
+  "主演": [
+    "Mac Van Khoa",
+    "Mai Cát Vi",
+    "Quoc Truong"
+  ],
+  "人物": [
+    {
+      "id": "",
+      "姓名": "Dan Trong Tran",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "Dan Trong Tran",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Mac Van Khoa",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Mai Cát Vi",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Quoc Truong",
+      "职位": "主演"
+    }
+  ],
+  "简介": "故事设定在20世纪90年代末的越南西南部乡村，讲述了年轻女子Lan（Phương Thanh饰）在父亲去世后，前往一位名叫Danh（Mạc Văn Khoa饰）的鳏夫家中担任女佣。她很快发现这座房子隐藏着可怕的秘密：神秘的死亡事件接连发生，村庄中流传着关于“守财灵”的传说——一种通过黑暗仪式召唤的灵体，用于守护财产，但会对陌生人造成致命威胁。Lan与一位名叫Sơn（Quốc Trường饰）的恐怖小说作家联手，试图揭开这些离奇事件背后的真相。",
+  "又名": [
+    "The Guardian Demon"
+  ],
+  "imdb": "tt36414938",
+  "豆瓣": "https://movie.douban.com/subject/37376204/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2922151440.jpg",
+  "豆瓣评分": "",
+  "不确定": []
+}

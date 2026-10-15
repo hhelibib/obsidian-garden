@@ -1,0 +1,23 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "27493567",
+  "url": "https://www.douban.com/personage/27493567/",
+  "中文名": "菅田将晖",
+  "原名": "Masaki Suda",
+  "出生": "1993-02-21",
+  "出生地": "日本,大阪府,箕面市",
+  "国籍": [
+    "日本"
+  ],
+  "身份": [
+    "演员",
+    "配音",
+    "导演",
+    "作者",
+    "音乐人"
+  ],
+  "imdb": "nm4027243",
+  "豆瓣": "https://www.douban.com/personage/27493567/",
+  "简介": "菅田将晖，日本新生代演员。大阪府出身，以主演《假面骑士W》出道，所属事务所为TOPCOAT。",
+  "照片": "https://img3.doubanio.com/view/celebrity/m/public/p1587285780.7.jpg"
+}

@@ -1,0 +1,74 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37346514",
+  "url": "https://movie.douban.com/subject/37346514/",
+  "中文名": "Madklubben: Hjemme Igen",
+  "原名": "",
+  "上映年": "2025",
+  "上映日期": "",
+  "主要国家": "丹麦",
+  "制作国家": [
+    "丹麦"
+  ],
+  "导演": [
+    "夏洛特·萨奇斯·波斯特鲁普"
+  ],
+  "编剧": [
+    "夏洛特·萨奇斯·波斯特鲁普",
+    "本·盖尔灵",
+    "Nina Lyng"
+  ],
+  "主演": [
+    "斯蒂娜·艾克布罗德",
+    "克尔斯滕·奥莱森",
+    "托尔斯·利比"
+  ],
+  "人物": [
+    {
+      "id": "27234947",
+      "姓名": "夏洛特·萨奇斯·波斯特鲁普",
+      "职位": "导演"
+    },
+    {
+      "id": "27234947",
+      "姓名": "夏洛特·萨奇斯·波斯特鲁普",
+      "职位": "编剧"
+    },
+    {
+      "id": "27213705",
+      "姓名": "本·盖尔灵",
+      "职位": "编剧"
+    },
+    {
+      "id": "27258701",
+      "姓名": "Nina Lyng",
+      "职位": "编剧"
+    },
+    {
+      "id": "27294231",
+      "姓名": "斯蒂娜·艾克布罗德",
+      "职位": "主演"
+    },
+    {
+      "id": "27342529",
+      "姓名": "克尔斯滕·奥莱森",
+      "职位": "主演"
+    },
+    {
+      "id": "27234604",
+      "姓名": "托尔斯·利比",
+      "职位": "主演"
+    }
+  ],
+  "简介": "Exploring the unbreakable bonds of friendship, this heartwarming tale celebrates love in its many forms and the timeless wisdom of living life to the fullest.",
+  "又名": [
+    "The Food Club - Home Again",
+    "The Food Club 2",
+    "Madklubben 2"
+  ],
+  "imdb": "tt33022450",
+  "豆瓣": "https://movie.douban.com/subject/37346514/",
+  "海报": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2928542454.jpg",
+  "豆瓣评分": "",
+  "不确定": []
+}

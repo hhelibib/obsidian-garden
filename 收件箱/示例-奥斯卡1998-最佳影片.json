@@ -1,0 +1,24 @@
+{
+  "schema": "mk-import/1",
+  "query": "第70届奥斯卡金像奖 最佳影片",
+  "generated_at": "2026-10-03",
+  "producer": "example",
+  "award_records": [
+    {
+      "奖项": "奥斯卡金像奖",
+      "颁奖年": 1998,
+      "届次": 70,
+      "奖项名": "最佳影片",
+      "结果": "获奖",
+      "影片检索名": "泰坦尼克号 (1997)",
+      "sources": [
+        {
+          "title": "The 70th Academy Awards",
+          "url": "https://www.oscars.org/oscars/ceremonies/1998"
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "uncertainties": []
+}

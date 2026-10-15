@@ -1,0 +1,54 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37271014",
+  "url": "https://movie.douban.com/subject/37271014/",
+  "中文名": "卡洛斯·阿尔卡拉斯：我的网球之道",
+  "原名": "Carlos Alcaraz: A mi manera",
+  "上映年": "2025",
+  "上映日期": "2025-04-23",
+  "主要国家": "西班牙",
+  "制作国家": [
+    "西班牙"
+  ],
+  "导演": [
+    "Jorge Laplace"
+  ],
+  "编剧": [
+    "Edu Salan",
+    "Jorge Laplace"
+  ],
+  "主演": [
+    "卡洛斯·阿尔卡拉斯"
+  ],
+  "人物": [
+    {
+      "id": "",
+      "姓名": "Jorge Laplace",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "Edu Salan",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Jorge Laplace",
+      "职位": "编剧"
+    },
+    {
+      "id": "36487138",
+      "姓名": "卡洛斯·阿尔卡拉斯",
+      "职位": "主演"
+    }
+  ],
+  "简介": "这部纪录片剧集跟拍卡洛斯·阿尔卡拉斯，了解他如何平衡辉煌网球事业带来的压力与 20 岁的年轻人所渴望的放松与自由。",
+  "又名": [
+    "Carlos Alcaraz: My Way"
+  ],
+  "imdb": "tt31806038",
+  "豆瓣": "https://movie.douban.com/subject/37271014/",
+  "海报": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2920280805.jpg",
+  "豆瓣评分": "8.2",
+  "不确定": []
+}

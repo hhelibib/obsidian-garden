@@ -1,0 +1,19 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "30216456",
+  "url": "https://www.douban.com/personage/30216456/",
+  "中文名": "阿里·苏莱曼",
+  "原名": "Ali Suliman",
+  "出生": "1977-10-10",
+  "出生地": "以色列,拿撒勒",
+  "国籍": [
+    "以色列"
+  ],
+  "身份": [
+    "演员"
+  ],
+  "imdb": "nm1846124",
+  "豆瓣": "https://www.douban.com/personage/30216456/",
+  "简介": "来自拿撒勒的巴勒斯坦裔阿拉伯以色列演员",
+  "照片": "https://img3.doubanio.com/view/personage/m/public/5171d82ecaca49aa459a8c8734369ff2.jpg"
+}

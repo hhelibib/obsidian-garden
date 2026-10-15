@@ -1,0 +1,66 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "36798854",
+  "url": "https://movie.douban.com/subject/36798854/",
+  "中文名": "碎片",
+  "原名": "Fragmentos",
+  "上映年": "2025",
+  "上映日期": "",
+  "主要国家": "西班牙",
+  "制作国家": [
+    "西班牙"
+  ],
+  "导演": [
+    "Horacio Alcala"
+  ],
+  "编剧": [
+    "Frank Ariza"
+  ],
+  "主演": [
+    "阿西亚·奥尔特加",
+    "Manu Vega",
+    "Emma Suárez",
+    "José Luis García-Pérez"
+  ],
+  "人物": [
+    {
+      "id": "",
+      "姓名": "Horacio Alcala",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "Frank Ariza",
+      "职位": "编剧"
+    },
+    {
+      "id": "36097095",
+      "姓名": "阿西亚·奥尔特加",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Manu Vega",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Emma Suárez",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "José Luis García-Pérez",
+      "职位": "主演"
+    }
+  ],
+  "简介": "Diego decides to travel to Lanzarote with his wife Alba to try and save their marriage for the umpteenth time. A toxic relationship, with no sexual chemistry and constant arguments, amidst comings and goings with other people, not caring how much they hurt one another. Alba keeps her shell drawn tightly around herself, not realising that her attitude is the cause of their faile...",
+  "又名": [
+    "Fragments"
+  ],
+  "imdb": "tt30332642",
+  "豆瓣": "https://movie.douban.com/subject/36798854/",
+  "海报": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2935987066.jpg",
+  "豆瓣评分": "",
+  "不确定": []
+}

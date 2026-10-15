@@ -1,0 +1,8 @@
+{
+  "userIgnoreFilters": [
+    ".venv/",
+    "__pycache__/",
+    "收件箱/",
+    "附件/"
+  ]
+}

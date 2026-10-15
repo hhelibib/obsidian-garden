@@ -1,0 +1,53 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37191526",
+  "url": "https://movie.douban.com/subject/37191526/",
+  "中文名": "乐活姐妹：怪诞冒险",
+  "原名": "第三季 YOLO: Rainbow Trinity Season 3",
+  "上映年": "2025",
+  "上映日期": "2025-03-09",
+  "主要国家": "美国",
+  "制作国家": [
+    "美国"
+  ],
+  "导演": [],
+  "编剧": [
+    "Michael Cusack"
+  ],
+  "主演": [
+    "Sarah Bishop",
+    "Todor Manojlovic",
+    "Michael Cusack"
+  ],
+  "人物": [
+    {
+      "id": "",
+      "姓名": "Michael Cusack",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Sarah Bishop",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Todor Manojlovic",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Michael Cusack",
+      "职位": "主演"
+    }
+  ],
+  "简介": "Sarah and Rachel themselves go through their own respective growth as their friendship changes.",
+  "又名": [
+    "YOLO: 彩虹三人组"
+  ],
+  "imdb": "",
+  "豆瓣": "https://movie.douban.com/subject/37191526/",
+  "海报": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2917191065.jpg",
+  "豆瓣评分": "",
+  "不确定": []
+}

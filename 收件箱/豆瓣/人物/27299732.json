@@ -1,0 +1,21 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "27299732",
+  "url": "https://www.douban.com/personage/27299732/",
+  "中文名": "雨果·热兰",
+  "原名": "Hugo Gélin",
+  "出生": "1980-05-04",
+  "出生地": "法国,巴黎",
+  "国籍": [
+    "法国"
+  ],
+  "身份": [
+    "导演",
+    "编剧",
+    "演员"
+  ],
+  "imdb": "nm0312315",
+  "豆瓣": "https://www.douban.com/personage/27299732/",
+  "简介": "Hugo Gélin is a French film director, producer and screenwriter",
+  "照片": "https://img3.doubanio.com/view/personage/m/public/65cc9748f213878598cf2c2874834bcb.jpg"
+}

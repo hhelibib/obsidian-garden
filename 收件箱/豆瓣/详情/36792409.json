@@ -1,0 +1,44 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "36792409",
+  "url": "https://movie.douban.com/subject/36792409/",
+  "中文名": "动物管制官",
+  "原名": "第三季 Animal Control Season 3",
+  "上映年": "2025",
+  "上映日期": "2025-01-02",
+  "主要国家": "美国",
+  "制作国家": [
+    "美国"
+  ],
+  "导演": [],
+  "编剧": [
+    "鲍勃·费希尔",
+    "罗布·格林伯格",
+    "丹·斯特林"
+  ],
+  "主演": [],
+  "人物": [
+    {
+      "id": "27571006",
+      "姓名": "鲍勃·费希尔",
+      "职位": "编剧"
+    },
+    {
+      "id": "30214563",
+      "姓名": "罗布·格林伯格",
+      "职位": "编剧"
+    },
+    {
+      "id": "27554301",
+      "姓名": "丹·斯特林",
+      "职位": "编剧"
+    }
+  ],
+  "简介": "After Animal Control must contain a freak zoo break, Frank realizes that he needs to break up with Yasmin 'the right way'; Patel's gorilla rescue goes viral; Emily finds an unexpected benefactor in a celebrity businesswoman.",
+  "又名": [],
+  "imdb": "tt31189763",
+  "豆瓣": "https://movie.douban.com/subject/36792409/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931350957.jpg",
+  "豆瓣评分": "7.6",
+  "不确定": []
+}

@@ -1,0 +1,82 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "36988757",
+  "url": "https://movie.douban.com/subject/36988757/",
+  "中文名": "野探哈莉",
+  "原名": "第四季 Harry Wild Season 4",
+  "上映年": "2025",
+  "上映日期": "2025-05-05",
+  "主要国家": "爱尔兰",
+  "制作国家": [
+    "爱尔兰"
+  ],
+  "导演": [
+    "罗伯特·昆宁"
+  ],
+  "编剧": [
+    "大卫·罗根",
+    "Jo Spain"
+  ],
+  "主演": [
+    "简·西摩",
+    "Rohan Nedd",
+    "凯文·J·瑞恩",
+    "罗斯·奥尼尔",
+    "萨曼莎·穆巴",
+    "保罗·泰来克"
+  ],
+  "人物": [
+    {
+      "id": "27239096",
+      "姓名": "罗伯特·昆宁",
+      "职位": "导演"
+    },
+    {
+      "id": "27326051",
+      "姓名": "大卫·罗根",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Jo Spain",
+      "职位": "编剧"
+    },
+    {
+      "id": "27212686",
+      "姓名": "简·西摩",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Rohan Nedd",
+      "职位": "主演"
+    },
+    {
+      "id": "27224212",
+      "姓名": "凯文·J·瑞恩",
+      "职位": "主演"
+    },
+    {
+      "id": "36893026",
+      "姓名": "罗斯·奥尼尔",
+      "职位": "主演"
+    },
+    {
+      "id": "27219728",
+      "姓名": "萨曼莎·穆巴",
+      "职位": "主演"
+    },
+    {
+      "id": "27585844",
+      "姓名": "保罗·泰来克",
+      "职位": "主演"
+    }
+  ],
+  "简介": "Season 4 will pick up a full year after the events of Season 3, and business couldn’t be better at the Wild/Reid Detective Agency as Harry and Fergus welcome an unexpected client: Charlie Wild.\nElsewhere, Harry is hired by a friend and former wild child turned nun; Lola stumbles upon a dance school myster; a Dublin literary tour takes a bloody turn; and Fergus’ hopes of going t...",
+  "又名": [],
+  "imdb": "tt33337947",
+  "豆瓣": "https://movie.douban.com/subject/36988757/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2921288833.jpg",
+  "豆瓣评分": "7.0",
+  "不确定": []
+}

@@ -1,0 +1,54 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37449559",
+  "url": "https://movie.douban.com/subject/37449559/",
+  "中文名": "陈奕迅",
+  "原名": "FEAR and DREAMS 演唱会 陳奕迅Fear and Dreams演唱會",
+  "上映年": "2025",
+  "上映日期": "2025-08-25",
+  "主要国家": "中国香港",
+  "制作国家": [
+    "中国香港"
+  ],
+  "导演": [
+    "kin@ptu"
+  ],
+  "编剧": [
+    "陈奕迅",
+    "朱祖儿 Joel Chu"
+  ],
+  "主演": [
+    "陈奕迅"
+  ],
+  "人物": [
+    {
+      "id": "",
+      "姓名": "kin@ptu",
+      "职位": "导演"
+    },
+    {
+      "id": "27229153",
+      "姓名": "陈奕迅",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "朱祖儿 Joel Chu",
+      "职位": "编剧"
+    },
+    {
+      "id": "27229153",
+      "姓名": "陈奕迅",
+      "职位": "主演"
+    }
+  ],
+  "简介": "陈奕迅“FEAR and DREAMS”演唱会将于8月25日0点上线bilibili。演唱会完整记录收录了“FEAR and DREAMS”香港站（红馆歌单）的精彩演出，多机位高品质摄录，通过沉浸式的视听效果，为观众带来前所未有的“FEAR and DREAMS”新体验。",
+  "又名": [
+    "陈奕迅 FEAR and DREAMS 世界巡回演唱会"
+  ],
+  "imdb": "",
+  "豆瓣": "https://movie.douban.com/subject/37449559/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2924700648.jpg",
+  "豆瓣评分": "",
+  "不确定": []
+}

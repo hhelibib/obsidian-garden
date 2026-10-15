@@ -1,0 +1,21 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "27211128",
+  "url": "https://www.douban.com/personage/27211128/",
+  "中文名": "Carl Bernstein",
+  "原名": "",
+  "出生": "1944-02-14",
+  "出生地": "美国,华盛顿哥伦比亚特区",
+  "国籍": [
+    "美国"
+  ],
+  "身份": [
+    "演员",
+    "编剧",
+    "作者"
+  ],
+  "imdb": "nm0077012",
+  "豆瓣": "https://www.douban.com/personage/27211128/",
+  "简介": "暂无",
+  "照片": "https://img3.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png"
+}

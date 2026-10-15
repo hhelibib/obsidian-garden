@@ -1,0 +1,83 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37389811",
+  "url": "https://movie.douban.com/subject/37389811/",
+  "中文名": "无限的爱",
+  "原名": "บริษัทนี้ไม่มีจำกัด",
+  "上映年": "2025",
+  "上映日期": "2025-10-11",
+  "主要国家": "泰国",
+  "制作国家": [
+    "泰国"
+  ],
+  "导演": [],
+  "编剧": [],
+  "主演": [
+    "瑛法·瓦拉哈",
+    "夏洛特·奥斯汀",
+    "玛琳·赛林",
+    "Mint Kittiyapron Fungmee",
+    "Patcha Patchaploy Rueandaluang",
+    "Snack Ajcharee Srisuk",
+    "Emma Martini",
+    "Jinny Napapat Rungroj",
+    "Khaopoad Nattha Intasao"
+  ],
+  "人物": [
+    {
+      "id": "36152500",
+      "姓名": "瑛法·瓦拉哈",
+      "职位": "主演"
+    },
+    {
+      "id": "36152499",
+      "姓名": "夏洛特·奥斯汀",
+      "职位": "主演"
+    },
+    {
+      "id": "37213051",
+      "姓名": "玛琳·赛林",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Mint Kittiyapron Fungmee",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Patcha Patchaploy Rueandaluang",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Snack Ajcharee Srisuk",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Emma Martini",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Jinny Napapat Rungroj",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Khaopoad Nattha Intasao",
+      "职位": "主演"
+    }
+  ],
+  "简介": "上班族普鲁因为打了个色眯眯的上司而被解雇，她还要照顾母亲和弟弟妹妹，心情十分低落。这时，她遇到了瑞，一个美丽又富有的女人。瑞提议她开一家名为“无限公司”的企业，只要客户有钱，公司什么都做。瑞家有一栋楼可以出租，普鲁很乐意成为合伙人。\n普鲁不知道是眼前瑞的美貌还是醉酒打动了她，但她很快就开始招聘拥有各种奇特才能的员工。很快，办公室里就挤满了俊男靓女，各种混乱和令人头疼的挑战也随之而来。起初的混乱局面逐渐演变成第二个家，同事之间的情谊也开始萌芽，超越了工作本身。",
+  "又名": [
+    "无限公司",
+    "Unlimited Love"
+  ],
+  "imdb": "tt39070177",
+  "豆瓣": "https://movie.douban.com/subject/37389811/",
+  "海报": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2922450561.jpg",
+  "豆瓣评分": "5.9",
+  "不确定": []
+}

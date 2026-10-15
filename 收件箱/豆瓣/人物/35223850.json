@@ -1,0 +1,20 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "35223850",
+  "url": "https://www.douban.com/personage/35223850/",
+  "中文名": "布鲁诺·古里",
+  "原名": "Bruno Gouery",
+  "出生": "1975-07-11",
+  "出生地": "法国",
+  "国籍": [
+    "法国"
+  ],
+  "身份": [
+    "演员",
+    "编剧"
+  ],
+  "imdb": "nm2708109",
+  "豆瓣": "https://www.douban.com/personage/35223850/",
+  "简介": "Bruno Gouery is an actor and writer, known for Doc Martin (2011), Emily in Paris (2020) and Marie-Francine (2017).",
+  "照片": "https://img3.doubanio.com/view/personage/m/public/90cdd59457284f02ab519a58874ba929.jpg"
+}

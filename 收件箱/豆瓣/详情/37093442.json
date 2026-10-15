@@ -1,0 +1,39 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37093442",
+  "url": "https://movie.douban.com/subject/37093442/",
+  "中文名": "人马剧场",
+  "原名": "Bardi",
+  "上映年": "2026",
+  "上映日期": "2026-10-01",
+  "主要国家": "摩洛哥",
+  "制作国家": [
+    "摩洛哥"
+  ],
+  "导演": [
+    "塔拉·哈迪德"
+  ],
+  "编剧": [
+    "塔拉·哈迪德"
+  ],
+  "主演": [],
+  "人物": [
+    {
+      "id": "36305413",
+      "姓名": "塔拉·哈迪德",
+      "职位": "导演"
+    },
+    {
+      "id": "36305413",
+      "姓名": "塔拉·哈迪德",
+      "职位": "编剧"
+    }
+  ],
+  "简介": "Bardi is an “ode to a different kind of community, a closed world of transmission and belief, where the forging of the self is played out in a theatre of horses and of men”.",
+  "又名": [],
+  "imdb": "tt11483190",
+  "豆瓣": "https://movie.douban.com/subject/37093442/",
+  "海报": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2936294745.jpg",
+  "豆瓣评分": "",
+  "不确定": []
+}

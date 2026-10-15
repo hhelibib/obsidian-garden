@@ -1,0 +1,162 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37284414",
+  "url": "https://movie.douban.com/subject/37284414/",
+  "中文名": "攻击鬼魂13号",
+  "原名": "วิญญาณเลขที่ 13",
+  "上映年": "2025",
+  "上映日期": "2025-06-13",
+  "主要国家": "泰国",
+  "制作国家": [
+    "泰国"
+  ],
+  "导演": [
+    "塔韦华·温泰"
+  ],
+  "编剧": [
+    "Thammanan Chulaboriruk"
+  ],
+  "主演": [
+    "格兰妮·拉素冰帕索尔",
+    "维林萨拉·唐基苏瓦尼奇",
+    "安比查雅·松可寒",
+    "Tarisa Preechatangkit",
+    "纳塔瓦·塔纳提维普拉瑟特",
+    "Chalita Aiemsaard",
+    "Kornrapee Anantakanont",
+    "翁加特·契姆查鲁本库尔",
+    "Jinnanaphat Eaksamutchai",
+    "Patchanok Iamsa-Ard",
+    "Patcharaporn Jangdee",
+    "Kumron Jivachat",
+    "Chaiyaporn Junmoontree",
+    "Chenidhakan Khemnarong",
+    "Kittitat Kitsawat",
+    "Tanyawan Kumpai",
+    "Kamol Prayudhthanakul",
+    "Tarakorn Ratanaporn",
+    "Ramita Rattanapakdee",
+    "Tassanee Ruangjam"
+  ],
+  "人物": [
+    {
+      "id": "27570726",
+      "姓名": "塔韦华·温泰",
+      "职位": "导演"
+    },
+    {
+      "id": "37897509",
+      "姓名": "Thammanan Chulaboriruk",
+      "职位": "编剧"
+    },
+    {
+      "id": "35591762",
+      "姓名": "格兰妮·拉素冰帕索尔",
+      "职位": "主演"
+    },
+    {
+      "id": "37897510",
+      "姓名": "维林萨拉·唐基苏瓦尼奇",
+      "职位": "主演"
+    },
+    {
+      "id": "30167948",
+      "姓名": "安比查雅·松可寒",
+      "职位": "主演"
+    },
+    {
+      "id": "37897511",
+      "姓名": "Tarisa Preechatangkit",
+      "职位": "主演"
+    },
+    {
+      "id": "37897512",
+      "姓名": "纳塔瓦·塔纳提维普拉瑟特",
+      "职位": "主演"
+    },
+    {
+      "id": "37897513",
+      "姓名": "Chalita Aiemsaard",
+      "职位": "主演"
+    },
+    {
+      "id": "37897514",
+      "姓名": "Kornrapee Anantakanont",
+      "职位": "主演"
+    },
+    {
+      "id": "27580164",
+      "姓名": "翁加特·契姆查鲁本库尔",
+      "职位": "主演"
+    },
+    {
+      "id": "37897515",
+      "姓名": "Jinnanaphat Eaksamutchai",
+      "职位": "主演"
+    },
+    {
+      "id": "37897516",
+      "姓名": "Patchanok Iamsa-Ard",
+      "职位": "主演"
+    },
+    {
+      "id": "37897517",
+      "姓名": "Patcharaporn Jangdee",
+      "职位": "主演"
+    },
+    {
+      "id": "37097056",
+      "姓名": "Kumron Jivachat",
+      "职位": "主演"
+    },
+    {
+      "id": "37897518",
+      "姓名": "Chaiyaporn Junmoontree",
+      "职位": "主演"
+    },
+    {
+      "id": "37897519",
+      "姓名": "Chenidhakan Khemnarong",
+      "职位": "主演"
+    },
+    {
+      "id": "37897520",
+      "姓名": "Kittitat Kitsawat",
+      "职位": "主演"
+    },
+    {
+      "id": "37897521",
+      "姓名": "Tanyawan Kumpai",
+      "职位": "主演"
+    },
+    {
+      "id": "37897522",
+      "姓名": "Kamol Prayudhthanakul",
+      "职位": "主演"
+    },
+    {
+      "id": "37897523",
+      "姓名": "Tarakorn Ratanaporn",
+      "职位": "主演"
+    },
+    {
+      "id": "37897524",
+      "姓名": "Ramita Rattanapakdee",
+      "职位": "主演"
+    },
+    {
+      "id": "37897525",
+      "姓名": "Tassanee Ruangjam",
+      "职位": "主演"
+    }
+  ],
+  "简介": "欺负人是不好，可是如果从你活着的时候就欺负你，直到你死了变成鬼，还不停的欺负你……被欺负到死，他们还怎么活下去？",
+  "又名": [
+    "Attack 13"
+  ],
+  "imdb": "tt37332874",
+  "豆瓣": "https://movie.douban.com/subject/37284414/",
+  "海报": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2926423666.jpg",
+  "豆瓣评分": "5.6",
+  "不确定": []
+}

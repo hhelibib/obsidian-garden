@@ -1,0 +1,35 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37167111",
+  "url": "https://movie.douban.com/subject/37167111/",
+  "中文名": "悬而未决的一夜",
+  "原名": "Quem se move",
+  "上映年": "2025",
+  "上映日期": "2025-01-30",
+  "主要国家": "巴西",
+  "制作国家": [
+    "巴西",
+    "葡萄牙"
+  ],
+  "导演": [
+    "Stephanie Ricci"
+  ],
+  "编剧": [],
+  "主演": [],
+  "人物": [
+    {
+      "id": "",
+      "姓名": "Stephanie Ricci",
+      "职位": "导演"
+    }
+  ],
+  "简介": "Over the course of one night, René, a Brazilian immigrant in Lisbon, grapples with the choice between staying illegally in an increasingly alien city or returning to the home she once fled. Her external struggles and internal conflicts intertwine, exposing the complexities of life between two worlds.",
+  "又名": [
+    "Those Who Move"
+  ],
+  "imdb": "tt35510173",
+  "豆瓣": "https://movie.douban.com/subject/37167111/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2920826460.jpg",
+  "豆瓣评分": "",
+  "不确定": []
+}

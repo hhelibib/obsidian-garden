@@ -1,0 +1,105 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "36750676",
+  "url": "https://movie.douban.com/subject/36750676/",
+  "中文名": "Louise",
+  "原名": "",
+  "上映年": "2025",
+  "上映日期": "",
+  "主要国家": "法国",
+  "制作国家": [
+    "法国"
+  ],
+  "导演": [
+    "Nicolas Keitel"
+  ],
+  "编剧": [
+    "Nicolas Keitel"
+  ],
+  "主演": [
+    "戴安·罗赛尔",
+    "塞西尔·德·弗朗斯",
+    "莎乐美·德瓦斯",
+    "Noémie Lemaitre",
+    "莉娜·埃尔·阿拉比",
+    "玛丽亚姆·阿赫迪欧",
+    "Kynan Carmeci",
+    "Mathilde Goffart",
+    "Emma Danze"
+  ],
+  "人物": [
+    {
+      "id": "",
+      "姓名": "Nicolas Keitel",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "Nicolas Keitel",
+      "职位": "编剧"
+    },
+    {
+      "id": "27577910",
+      "姓名": "戴安·罗赛尔",
+      "职位": "主演"
+    },
+    {
+      "id": "27215126",
+      "姓名": "塞西尔·德·弗朗斯",
+      "职位": "主演"
+    },
+    {
+      "id": "35752694",
+      "姓名": "莎乐美·德瓦斯",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Noémie Lemaitre",
+      "职位": "主演"
+    },
+    {
+      "id": "34880916",
+      "姓名": "莉娜·埃尔·阿拉比",
+      "职位": "主演"
+    },
+    {
+      "id": "36668284",
+      "姓名": "玛丽亚姆·阿赫迪欧",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Kynan Carmeci",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Mathilde Goffart",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Emma Danze",
+      "职位": "主演"
+    }
+  ],
+  "简介": "Le destin d'une jeune fille raconté sur deux époques : Marion devient \"Louise\" et se retrouve plongée malgré elle dans une vie de mensonges. Quinze ans après avoir fugué du domicile familial, Marion retrouve la trace de sa petite sœur et part à sa rencontre. Mais cette dernière ne la reconnaît pas et Marion décide sur l'impulsion du moment de se présenter sous son nouveau nom, ...",
+  "又名": [
+    "Une fille sans histoire",
+    "The Girl Without A Name"
+  ],
+  "imdb": "tt27664510",
+  "豆瓣": "https://movie.douban.com/subject/36750676/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2925360729.jpg",
+  "豆瓣评分": "",
+  "不确定": [
+    {
+      "主题": "上映日期",
+      "说法": [
+        "2025-10-10",
+        "2025-12-10"
+      ]
+    }
+  ]
+}

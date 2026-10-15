@@ -1,0 +1,47 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37242403",
+  "url": "https://movie.douban.com/subject/37242403/",
+  "中文名": "请君入局",
+  "原名": "The Game",
+  "上映年": "2025",
+  "上映日期": "2025-05-12",
+  "主要国家": "英国",
+  "制作国家": [
+    "英国"
+  ],
+  "导演": [],
+  "编剧": [
+    "Tom Grieves"
+  ],
+  "主演": [
+    "杰森·沃特金斯",
+    "罗布森·格林"
+  ],
+  "人物": [
+    {
+      "id": "",
+      "姓名": "Tom Grieves",
+      "职位": "编剧"
+    },
+    {
+      "id": "27375040",
+      "姓名": "杰森·沃特金斯",
+      "职位": "主演"
+    },
+    {
+      "id": "27301586",
+      "姓名": "罗布森·格林",
+      "职位": "主演"
+    }
+  ],
+  "简介": "Huw Miller is a retired police officer, who is plagued by the one case he failed to crack — stalker who taunted his town, toying with his victims before killing them. When Patrick Harbottle moves into a home on his street recently left empty when the occupier suddenly dies, Miller becomes convinced his new neighbor is the killer, thanks to three little words.",
+  "又名": [
+    "Catch You Later"
+  ],
+  "imdb": "tt35822329",
+  "豆瓣": "https://movie.douban.com/subject/37242403/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2921470709.jpg",
+  "豆瓣评分": "",
+  "不确定": []
+}

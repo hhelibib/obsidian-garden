@@ -1,0 +1,21 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "30313971",
+  "url": "https://www.douban.com/personage/30313971/",
+  "中文名": "囧森瑟夫",
+  "原名": "Joseph",
+  "出生": "1990-10-05",
+  "出生地": "中国",
+  "国籍": [
+    "中国"
+  ],
+  "身份": [
+    "配音",
+    "演员",
+    "导演"
+  ],
+  "imdb": "nm10939414",
+  "豆瓣": "https://www.douban.com/personage/30313971/",
+  "简介": "声娱配音演员",
+  "照片": "https://img2.doubanio.com/view/personage/m/public/c201cd98891bca3931a4a539c67831ae.jpg"
+}

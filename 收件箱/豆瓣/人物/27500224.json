@@ -1,0 +1,21 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "27500224",
+  "url": "https://www.douban.com/personage/27500224/",
+  "中文名": "约翰·马加罗",
+  "原名": "John Magaro",
+  "出生": "1983-02-16",
+  "出生地": "美国,俄亥俄,阿克伦",
+  "国籍": [
+    "美国"
+  ],
+  "身份": [
+    "演员",
+    "配音",
+    "导演"
+  ],
+  "imdb": "nm1910274",
+  "豆瓣": "https://www.douban.com/personage/27500224/",
+  "简介": "John Robert Magaro, born February 16, 1983, is an American film, television and stage actor.",
+  "照片": "https://img3.doubanio.com/view/personage/m/public/4a4f0ac211093eac5079dc586c37a549.jpg"
+}

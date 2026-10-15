@@ -1,0 +1,176 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37116027",
+  "url": "https://movie.douban.com/subject/37116027/",
+  "中文名": "伪钞之王",
+  "原名": "L’Affaire Bojarski",
+  "上映年": "2025",
+  "上映日期": "",
+  "主要国家": "法国",
+  "制作国家": [
+    "法国"
+  ],
+  "导演": [
+    "让-保尔·萨罗米"
+  ],
+  "编剧": [
+    "巴斯蒂安·达雷特",
+    "让-保尔·萨罗米"
+  ],
+  "主演": [
+    "勒达·卡代布",
+    "萨拉·吉罗多",
+    "巴斯蒂安·布永",
+    "皮埃尔·洛廷",
+    "康坦·多尔迈尔",
+    "Victor Poirier",
+    "奥利维尔·卢斯托",
+    "塞德里克·韦伯",
+    "卡米尔·雅毕",
+    "弗兰西斯·莱珀雷",
+    "Arthur Teboul",
+    "洛丽塔·夏马",
+    "Margaux Rossi",
+    "弗朗索瓦·佩彻",
+    "Christophe Kourotchkine",
+    "Frédéric Buret",
+    "皮埃尔·吉拉德",
+    "Helena Sadowy",
+    "Julien Massetti",
+    "阿兰·布兹盖"
+  ],
+  "人物": [
+    {
+      "id": "27524811",
+      "姓名": "让-保尔·萨罗米",
+      "职位": "导演"
+    },
+    {
+      "id": "30316494",
+      "姓名": "巴斯蒂安·达雷特",
+      "职位": "编剧"
+    },
+    {
+      "id": "27524811",
+      "姓名": "让-保尔·萨罗米",
+      "职位": "编剧"
+    },
+    {
+      "id": "27549274",
+      "姓名": "勒达·卡代布",
+      "职位": "主演"
+    },
+    {
+      "id": "27573771",
+      "姓名": "萨拉·吉罗多",
+      "职位": "主演"
+    },
+    {
+      "id": "27575871",
+      "姓名": "巴斯蒂安·布永",
+      "职位": "主演"
+    },
+    {
+      "id": "36414508",
+      "姓名": "皮埃尔·洛廷",
+      "职位": "主演"
+    },
+    {
+      "id": "27577906",
+      "姓名": "康坦·多尔迈尔",
+      "职位": "主演"
+    },
+    {
+      "id": "37667897",
+      "姓名": "Victor Poirier",
+      "职位": "主演"
+    },
+    {
+      "id": "27489849",
+      "姓名": "奥利维尔·卢斯托",
+      "职位": "主演"
+    },
+    {
+      "id": "36327130",
+      "姓名": "塞德里克·韦伯",
+      "职位": "主演"
+    },
+    {
+      "id": "27571246",
+      "姓名": "卡米尔·雅毕",
+      "职位": "主演"
+    },
+    {
+      "id": "27331536",
+      "姓名": "弗兰西斯·莱珀雷",
+      "职位": "主演"
+    },
+    {
+      "id": "36791872",
+      "姓名": "Arthur Teboul",
+      "职位": "主演"
+    },
+    {
+      "id": "27281898",
+      "姓名": "洛丽塔·夏马",
+      "职位": "主演"
+    },
+    {
+      "id": "37667898",
+      "姓名": "Margaux Rossi",
+      "职位": "主演"
+    },
+    {
+      "id": "36423067",
+      "姓名": "弗朗索瓦·佩彻",
+      "职位": "主演"
+    },
+    {
+      "id": "36570139",
+      "姓名": "Christophe Kourotchkine",
+      "职位": "主演"
+    },
+    {
+      "id": "36893299",
+      "姓名": "Frédéric Buret",
+      "职位": "主演"
+    },
+    {
+      "id": "36251500",
+      "姓名": "皮埃尔·吉拉德",
+      "职位": "主演"
+    },
+    {
+      "id": "37667899",
+      "姓名": "Helena Sadowy",
+      "职位": "主演"
+    },
+    {
+      "id": "37667900",
+      "姓名": "Julien Massetti",
+      "职位": "主演"
+    },
+    {
+      "id": "36735284",
+      "姓名": "阿兰·布兹盖",
+      "职位": "主演"
+    }
+  ],
+  "简介": "The story charts how young Polish refugee Jan Bojarski became the biggest counterfeiter of all time, “the Cézanne of fake money”, in post-war France; how, for over fifteen years and unbeknownst to his family, this man led a double life making counterfeit money - which was “more real” than the notes printed by the Bank of France - in a shed at the bottom of his garden; and how, ...",
+  "又名": [
+    "The Money Maker"
+  ],
+  "imdb": "tt35495035",
+  "豆瓣": "https://movie.douban.com/subject/37116027/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2926256257.jpg",
+  "豆瓣评分": "7.3",
+  "不确定": [
+    {
+      "主题": "上映日期",
+      "说法": [
+        "2025-09-21",
+        "2026-01-14"
+      ]
+    }
+  ]
+}

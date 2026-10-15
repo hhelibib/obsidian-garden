@@ -1,0 +1,73 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37227551",
+  "url": "https://movie.douban.com/subject/37227551/",
+  "中文名": "爱情毒药",
+  "原名": "พิษรัก",
+  "上映年": "2025",
+  "上映日期": "2025-09-20",
+  "主要国家": "泰国",
+  "制作国家": [
+    "泰国"
+  ],
+  "导演": [
+    "Nok Natthaphon"
+  ],
+  "编剧": [
+    "Sapphic squad"
+  ],
+  "主演": [
+    "纳妮茶·帕缇那西莉",
+    "Jayna Angelina Stevens",
+    "谭雅缇·塔微辛塔纳",
+    "Renée Veronica Pagano",
+    "坎雅拉·奇拉查基特"
+  ],
+  "人物": [
+    {
+      "id": "",
+      "姓名": "Nok Natthaphon",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "Sapphic squad",
+      "职位": "编剧"
+    },
+    {
+      "id": "37399619",
+      "姓名": "纳妮茶·帕缇那西莉",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Jayna Angelina Stevens",
+      "职位": "主演"
+    },
+    {
+      "id": "36152494",
+      "姓名": "谭雅缇·塔微辛塔纳",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Renée Veronica Pagano",
+      "职位": "主演"
+    },
+    {
+      "id": "34853628",
+      "姓名": "坎雅拉·奇拉查基特",
+      "职位": "主演"
+    }
+  ],
+  "简介": "Love is a poison, intoxicating the hearts. Yet, in the end, it's poisonous love that makes the hearts race.\n“你的未婚夫让我的朋友怀孕了。”Prem医生（Ginny饰）在自己期待已久的婚礼上，听到了来自反派女演员Pat（Jayna饰）带来的惊人消息，她的人生就此改变。\n“那个女人，带来了毁掉我人生的消息，可为什么，我开始想念她。”",
+  "又名": [
+    "毒爱",
+    "Poisonous Love"
+  ],
+  "imdb": "tt35557156",
+  "豆瓣": "https://movie.douban.com/subject/37227551/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2922460150.jpg",
+  "豆瓣评分": "7.9",
+  "不确定": []
+}

@@ -1,0 +1,21 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "27501706",
+  "url": "https://www.douban.com/personage/27501706/",
+  "中文名": "约翰·雷诺兹",
+  "原名": "John Reynolds",
+  "出生": "1991-08-05",
+  "出生地": "美国,威斯康星,麦迪逊",
+  "国籍": [
+    "美国"
+  ],
+  "身份": [
+    "演员",
+    "编剧",
+    "配音"
+  ],
+  "imdb": "nm6324745",
+  "豆瓣": "https://www.douban.com/personage/27501706/",
+  "简介": "John Reynolds is an actor and writer, known for Party Time Party Time (2013), We Have to Move (2015) and We Have to Move (2015).",
+  "照片": "https://img3.doubanio.com/view/personage/m/public/c78665f9fb6206072b93b74ab41c76bd.jpg"
+}

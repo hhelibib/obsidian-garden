@@ -1,0 +1,42 @@
+---
+类型: 人物
+中文名: Tanea Heke
+原名:
+检索名: Tanea Heke
+身份: [演员]
+出生:
+逝世:
+国籍: []
+照片:
+tmdb:
+imdb: nm2192297
+豆瓣: https://www.douban.com/personage/30204615/
+aliases: []
+---
+
+<img src="附件/人物/Tanea Heke/照片.jpg" width="240">
+
+## 人物介绍
+
+### 生平
+Tanea Heke is an actress, known for Eagle vs Shark (2007), Second Hand Wedding (2008) and Xena: Warrior Princess (1995).
+
+### 现实关系
+
+关系用固定词：配偶、父母、子女、兄弟姐妹、长期合作。时期可只写年份。
+
+| 关系 | 人物 | 开始 | 结束 | 备注 |
+| --- | --- | --- | --- | --- |
+| | [[]] | | | |
+
+## 作品
+
+奖项不在这里手抄。奖项笔记的人物列链到本篇后，反向链接会汇总。
+
+### 出演
+
+影片「主演」链到本篇时，在这里链回该片。
+
+| 影片 | 角色 |
+| --- | --- |
+| [[天堂岔路 (2025)]] |  |

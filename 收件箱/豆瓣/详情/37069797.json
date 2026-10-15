@@ -1,0 +1,101 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37069797",
+  "url": "https://movie.douban.com/subject/37069797/",
+  "中文名": "天作不合的我们",
+  "原名": "第二季 Nobody Wants This Season 2",
+  "上映年": "2025",
+  "上映日期": "2025-10-23",
+  "主要国家": "美国",
+  "制作国家": [
+    "美国"
+  ],
+  "导演": [],
+  "编剧": [
+    "艾琳·福斯特"
+  ],
+  "主演": [
+    "克里斯汀·贝尔",
+    "亚当·布罗迪",
+    "贾斯汀·卢佩",
+    "蒂莫西·西蒙斯",
+    "杰姬·托恩",
+    "阿里安·穆阿耶德",
+    "莉顿·梅斯特",
+    "迈尔斯·福勒",
+    "斯蒂芬妮·法拉希",
+    "托芙·菲尔德舒",
+    "保罗·本-维克托"
+  ],
+  "人物": [
+    {
+      "id": "27375751",
+      "姓名": "艾琳·福斯特",
+      "职位": "编剧"
+    },
+    {
+      "id": "27236981",
+      "姓名": "克里斯汀·贝尔",
+      "职位": "主演"
+    },
+    {
+      "id": "27209178",
+      "姓名": "亚当·布罗迪",
+      "职位": "主演"
+    },
+    {
+      "id": "27497481",
+      "姓名": "贾斯汀·卢佩",
+      "职位": "主演"
+    },
+    {
+      "id": "27503145",
+      "姓名": "蒂莫西·西蒙斯",
+      "职位": "主演"
+    },
+    {
+      "id": "27357011",
+      "姓名": "杰姬·托恩",
+      "职位": "主演"
+    },
+    {
+      "id": "35770035",
+      "姓名": "阿里安·穆阿耶德",
+      "职位": "主演"
+    },
+    {
+      "id": "27205702",
+      "姓名": "莉顿·梅斯特",
+      "职位": "主演"
+    },
+    {
+      "id": "36549919",
+      "姓名": "迈尔斯·福勒",
+      "职位": "主演"
+    },
+    {
+      "id": "27291543",
+      "姓名": "斯蒂芬妮·法拉希",
+      "职位": "主演"
+    },
+    {
+      "id": "27222436",
+      "姓名": "托芙·菲尔德舒",
+      "职位": "主演"
+    },
+    {
+      "id": "27268304",
+      "姓名": "保罗·本-维克托",
+      "职位": "主演"
+    }
+  ],
+  "简介": "Nobody Wants This is not living up to its title because Netflix definitely wants more, renewing the hit romantic comedy starring Kristen Bell and Adam Brody for a second season. The pickup, which will be revealed this morning by Netflix Chief Content Officer Bela Bajaria, comes with a showrunner change on the breakout series, created and executive produced by Erin Foster who re...",
+  "又名": [
+    "天作不合"
+  ],
+  "imdb": "tt33992127",
+  "豆瓣": "https://movie.douban.com/subject/37069797/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2925543047.jpg",
+  "豆瓣评分": "6.9",
+  "不确定": []
+}

@@ -1,0 +1,21 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "27548712",
+  "url": "https://www.douban.com/personage/27548712/",
+  "中文名": "沙漠",
+  "原名": "Mo Sha",
+  "出生": "1990-01-11",
+  "出生地": "北京",
+  "国籍": [
+    "北京"
+  ],
+  "身份": [
+    "导演",
+    "编剧",
+    "演员"
+  ],
+  "imdb": "nm7186354",
+  "豆瓣": "https://www.douban.com/personage/27548712/",
+  "简介": "北京电影学院08级本科导演系剪辑方向\n北京电影学院12级硕士导演系电影导演方向",
+  "照片": "https://img3.doubanio.com/view/personage/m/public/099f705de939017dd4712cf1513826c3.jpg"
+}

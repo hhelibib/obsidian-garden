@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "084318a2cec84c56",
+    "type": "split",
+    "children": [
+      {
+        "id": "4899857a5148173b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d20b9da3221a315b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab4844df6e6207e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e8d6cb3e472330c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04d7e7572146d80f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "333d99477b9c4fbe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "陈雪甄",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "34b1a033212ee296",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "06fb190f3528151b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ea76e2c7b0e883f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32114ea99570f8dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "607063040acc46b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "cb2a0f9a2ff1f385",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "23b74f40948ab051",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "471bf8c863085193",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "模板/奖项.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "quartz-syncer:Quartz Syncer Publication Center": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "d20b9da3221a315b",
+  "lastOpenFiles": [
+    "影片/3年Z组银八老师 (2025).md",
+    "工具/修复双向链接.py",
+    "人物/张慧 (38532259).md",
+    "人物/张少安.md",
+    "人物/森胁真琴.md",
+    "奖项/英国电影学院奖.md",
+    "人物/Weerasu Worrapot.md",
+    "人物/Wanja Mues.md",
+    "收件箱/报告-豆瓣-2025-全部-全部.md",
+    "影片/书卷一梦 (2025).md",
+    "附件/人物/奥拉罗蒂米·法昆莱/照片.png",
+    "附件/人物/奥拉罗蒂米·法昆莱",
+    "附件/人物/Megan Oxtoby/照片.png",
+    "附件/人物/Megan Oxtoby",
+    "收件箱/报告-豆瓣人物.md",
+    "工具/_plain_artifacts.py",
+    "工具/_plain_preview.py",
+    "收件箱/预览-豆瓣人物.md",
+    "人物/马尔加·阿尔托拉吉雷.md",
+    "人物/雪冰.md",
+    "人物/阿黛尔·皮拉斯.md",
+    "人物/萨日娜.md",
+    "人物/李圭汇.md",
+    "人物/奥拉罗蒂米·法昆莱.md",
+    "工具/_strip_image_links.py",
+    "附件/人物/方亭/照片.png",
+    "附件/人物/方亭",
+    "附件/人物/帕特里克·埃辛/照片.png",
+    "附件/人物/帕特里克·埃辛",
+    "人物/金准韩.md",
+    "人物/苏莱·里米.md",
+    "人物/田雨.md",
+    "人物/洪瑞俊.md",
+    "人物/崔广日.md",
+    "人物/定桓.md",
+    "人物/埃布卡·伊格韦.md",
+    "人物/周欣雨.md",
+    "附件/人物/马尔加·阿尔托拉吉雷/照片.png",
+    "附件/人物/马尔加·阿尔托拉吉雷",
+    "附件/人物/米克尔·加门迪亚/照片.png",
+    "附件/人物/米克尔·加门迪亚",
+    "附件/人物/张慧 (38532259)/照片.jpg",
+    "附件/人物/张少安/照片.png",
+    "附件/人物/小鱼/照片.png",
+    "附件/人物/安察内·克鲁赫拉斯/照片.png",
+    "未命名.canvas"
+  ]
+}

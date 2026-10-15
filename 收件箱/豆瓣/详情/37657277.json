@@ -1,0 +1,76 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37657277",
+  "url": "https://movie.douban.com/subject/37657277/",
+  "中文名": "坏蛋联盟：闯关大行动",
+  "原名": "The Bad Guys: Breaking In",
+  "上映年": "2025",
+  "上映日期": "2025-11-06",
+  "主要国家": "美国",
+  "制作国家": [
+    "美国"
+  ],
+  "导演": [],
+  "编剧": [],
+  "主演": [
+    "迈克尔·高德尔",
+    "以西结·阿杰贝",
+    "劳尔·塞巴洛斯",
+    "克里斯·迪亚曼托普洛斯",
+    "马洛里·露",
+    "泽赫拉·法扎勒",
+    "帕顿·奥斯瓦尔特",
+    "凯特·穆格鲁"
+  ],
+  "人物": [
+    {
+      "id": "27303043",
+      "姓名": "迈克尔·高德尔",
+      "职位": "主演"
+    },
+    {
+      "id": "36595422",
+      "姓名": "以西结·阿杰贝",
+      "职位": "主演"
+    },
+    {
+      "id": "36595421",
+      "姓名": "劳尔·塞巴洛斯",
+      "职位": "主演"
+    },
+    {
+      "id": "27295989",
+      "姓名": "克里斯·迪亚曼托普洛斯",
+      "职位": "主演"
+    },
+    {
+      "id": "27389176",
+      "姓名": "马洛里·露",
+      "职位": "主演"
+    },
+    {
+      "id": "34951162",
+      "姓名": "泽赫拉·法扎勒",
+      "职位": "主演"
+    },
+    {
+      "id": "27212706",
+      "姓名": "帕顿·奥斯瓦尔特",
+      "职位": "主演"
+    },
+    {
+      "id": "27253930",
+      "姓名": "凯特·穆格鲁",
+      "职位": "主演"
+    }
+  ],
+  "简介": "Before everyone's favorite felons became THE Bad Guys, they were just some bad guys trying to earn their fearsome reputation. On their journey to be the biggest and baddest criminals in history, Wolf makes it their mission to become the top crew on 6 News Nightly's Worst of the Worst List with their boldest heists yet... but they've never been very good at being bad.",
+  "又名": [
+    "The Bad Guys: Bad for Bussines"
+  ],
+  "imdb": "tt31392119",
+  "豆瓣": "https://movie.douban.com/subject/37657277/",
+  "海报": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2927343285.jpg",
+  "豆瓣评分": "6.8",
+  "不确定": []
+}

@@ -1,0 +1,53 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37355010",
+  "url": "https://movie.douban.com/subject/37355010/",
+  "中文名": "地下角斗士",
+  "原名": "Gladiator Undergound",
+  "上映年": "2025",
+  "上映日期": "2025-10-17",
+  "主要国家": "泰国",
+  "制作国家": [
+    "泰国"
+  ],
+  "导演": [
+    "察雅·苏潘娜拉特"
+  ],
+  "编剧": [],
+  "主演": [
+    "戴拉·绍",
+    "黎唯",
+    "黎明"
+  ],
+  "人物": [
+    {
+      "id": "37135298",
+      "姓名": "察雅·苏潘娜拉特",
+      "职位": "导演"
+    },
+    {
+      "id": "27445704",
+      "姓名": "戴拉·绍",
+      "职位": "主演"
+    },
+    {
+      "id": "35460805",
+      "姓名": "黎唯",
+      "职位": "主演"
+    },
+    {
+      "id": "35460804",
+      "姓名": "黎明",
+      "职位": "主演"
+    }
+  ],
+  "简介": "Duke and Yan, two long time rivals, are competing in the world’s most dangerous underground fighting tournament, where powerful crimelords can gamble and influence who they fight, the terrain they fight on and what weapons will be used. In this high-stakes bloodsport where one wrong move can mean certain death, they must decide whether to play by the rules or to cast their hono...",
+  "又名": [
+    "黑暗死斗士"
+  ],
+  "imdb": "tt34966032",
+  "豆瓣": "https://movie.douban.com/subject/37355010/",
+  "海报": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2926251971.jpg",
+  "豆瓣评分": "",
+  "不确定": []
+}

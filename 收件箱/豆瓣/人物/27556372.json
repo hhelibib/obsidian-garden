@@ -1,0 +1,21 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "27556372",
+  "url": "https://www.douban.com/personage/27556372/",
+  "中文名": "饺子",
+  "原名": "Yu Yang",
+  "出生": "1980",
+  "出生地": "中国,四川,泸州",
+  "国籍": [
+    "中国"
+  ],
+  "身份": [
+    "导演",
+    "编剧",
+    "配音"
+  ],
+  "imdb": "nm1169562",
+  "豆瓣": "https://www.douban.com/personage/27556372/",
+  "简介": "杨宇，四川泸州人，1980年出生，毕业于华西医科大学药学院.",
+  "照片": "https://img3.doubanio.com/view/personage/m/public/56a5e7134194db5a9b1c5366ba7bbad2.jpg"
+}

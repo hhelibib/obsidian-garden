@@ -1,0 +1,90 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37245790",
+  "url": "https://movie.douban.com/subject/37245790/",
+  "中文名": "乔治和曼迪的头婚生活",
+  "原名": "第二季 Georgie & Mandy’s First Marriage Season 2",
+  "上映年": "2025",
+  "上映日期": "2025-10-16",
+  "主要国家": "美国",
+  "制作国家": [
+    "美国"
+  ],
+  "导演": [
+    "Mark Cendrowski"
+  ],
+  "编剧": [
+    "史蒂夫·霍兰德",
+    "史蒂文·莫拉",
+    "Chuck Lorre",
+    "Connor Kilpatrick",
+    "吉姆·雷诺兹",
+    "Nadiya Chettiar",
+    "Yael Glouberman"
+  ],
+  "主演": [
+    "蒙塔纳·乔丹",
+    "艾米丽·奥斯蒙特"
+  ],
+  "人物": [
+    {
+      "id": "",
+      "姓名": "Mark Cendrowski",
+      "职位": "导演"
+    },
+    {
+      "id": "27542566",
+      "姓名": "史蒂夫·霍兰德",
+      "职位": "编剧"
+    },
+    {
+      "id": "27542567",
+      "姓名": "史蒂文·莫拉",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Chuck Lorre",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Connor Kilpatrick",
+      "职位": "编剧"
+    },
+    {
+      "id": "27542568",
+      "姓名": "吉姆·雷诺兹",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Nadiya Chettiar",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Yael Glouberman",
+      "职位": "编剧"
+    },
+    {
+      "id": "27588387",
+      "姓名": "蒙塔纳·乔丹",
+      "职位": "主演"
+    },
+    {
+      "id": "27237591",
+      "姓名": "艾米丽·奥斯蒙特",
+      "职位": "主演"
+    }
+  ],
+  "简介": "Reviewers say 'Georgie & Mandy's First Marriage' garners mixed reactions. Praised for its character chemistry and strong performances, it continues beloved elements from 'Young Sheldon'. However, criticisms arise over the laugh track, unoriginal writing, reliance on sitcom tropes, and the lack of new, interesting characters. Despite these issues, there is optimism for improveme...",
+  "又名": [
+    "小谢尔顿衍生剧"
+  ],
+  "imdb": "tt35856959",
+  "豆瓣": "https://movie.douban.com/subject/37245790/",
+  "海报": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2926065431.jpg",
+  "豆瓣评分": "8.3",
+  "不确定": []
+}

@@ -1,0 +1,62 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37336334",
+  "url": "https://movie.douban.com/subject/37336334/",
+  "中文名": "心安之处",
+  "原名": "Itt érzem magam otthon",
+  "上映年": "2025",
+  "上映日期": "",
+  "主要国家": "匈牙利",
+  "制作国家": [
+    "匈牙利"
+  ],
+  "导演": [
+    "Gábor Holtai"
+  ],
+  "编剧": [],
+  "主演": [
+    "Rozi Lovas",
+    "Áron Molnár",
+    "Dorka Gryllus"
+  ],
+  "人物": [
+    {
+      "id": "",
+      "姓名": "Gábor Holtai",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "Rozi Lovas",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Áron Molnár",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Dorka Gryllus",
+      "职位": "主演"
+    }
+  ],
+  "简介": "一名女子被一个家庭绑架了，这个家庭声称她是他们失踪的女儿。为了生存下去，她必须假扮成另一个女人，同时还要努力寻找摆脱这场噩梦的办法。",
+  "又名": [
+    "诡家人",
+    "Feels Like Home"
+  ],
+  "imdb": "tt35303515",
+  "豆瓣": "https://movie.douban.com/subject/37336334/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933314138.jpg",
+  "豆瓣评分": "7.1",
+  "不确定": [
+    {
+      "主题": "上映日期",
+      "说法": [
+        "2025-08-16",
+        "2026-02-19"
+      ]
+    }
+  ]
+}

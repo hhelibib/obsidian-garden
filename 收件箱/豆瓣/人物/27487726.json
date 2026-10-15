@@ -1,0 +1,22 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "27487726",
+  "url": "https://www.douban.com/personage/27487726/",
+  "中文名": "孙悦",
+  "原名": "Yue Sun",
+  "出生": "1972-06-29",
+  "出生地": "中国,黑龙江,哈尔滨",
+  "国籍": [
+    "中国"
+  ],
+  "身份": [
+    "音乐人",
+    "演员",
+    "音乐",
+    "作者"
+  ],
+  "imdb": "nm3870491",
+  "豆瓣": "https://www.douban.com/personage/27487726/",
+  "简介": "孙悦，1972年6月29日出生在黑龙江省哈尔滨市，中国内地女歌手、演员。1992年参加第五届CCTV青年歌手电视大奖赛获得通俗组铜奖而正式出道。",
+  "照片": "https://img3.doubanio.com/view/personage/m/public/9c3504f6940e108bed7416602fe42fbf.jpg"
+}

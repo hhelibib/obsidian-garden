@@ -1,0 +1,40 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37408218",
+  "url": "https://movie.douban.com/subject/37408218/",
+  "中文名": "艾米不见了:",
+  "原名": "邮轮失踪悬案 Amy Bradley Is Missing",
+  "上映年": "2025",
+  "上映日期": "2025-07-16",
+  "主要国家": "美国",
+  "制作国家": [
+    "美国"
+  ],
+  "导演": [
+    "Ari Mark",
+    "Philip Lott"
+  ],
+  "编剧": [],
+  "主演": [],
+  "人物": [
+    {
+      "id": "",
+      "姓名": "Ari Mark",
+      "职位": "导演"
+    },
+    {
+      "id": "27226256",
+      "姓名": "Philip Lott",
+      "职位": "导演"
+    }
+  ],
+  "简介": "1998 年，一名 23 岁的女子在加勒比海游轮上失踪，她的家人坚持不懈地寻找答案。这部真实犯罪题材剧集对本案进行了探讨。",
+  "又名": [
+    "Amy Lynn Bradley Is Missing"
+  ],
+  "imdb": "tt37439438",
+  "豆瓣": "https://movie.douban.com/subject/37408218/",
+  "海报": "https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2923464311.jpg",
+  "豆瓣评分": "7.5",
+  "不确定": []
+}

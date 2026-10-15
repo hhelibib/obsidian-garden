@@ -1,0 +1,20 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "35771281",
+  "url": "https://www.douban.com/personage/35771281/",
+  "中文名": "叶光富",
+  "原名": "Guangfu Ye",
+  "出生": "1980-09-01",
+  "出生地": "中国,四川,成都",
+  "国籍": [
+    "中国"
+  ],
+  "身份": [
+    "演员",
+    "摄影"
+  ],
+  "imdb": "nm17611318",
+  "豆瓣": "https://www.douban.com/personage/35771281/",
+  "简介": "中国人民解放军航天员大队二级航天员。毕业于长春飞行学院，神舟十三号航天员，大校军衔。",
+  "照片": "https://img3.doubanio.com/view/personage/m/public/fd663dfd5c0ed901ea0ec390e0e035e3.jpg"
+}

@@ -1,0 +1,52 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "37661731",
+  "url": "https://movie.douban.com/subject/37661731/",
+  "中文名": "观鸟狂：极限观鸟之旅",
+  "原名": "Listers: A Glimpse Into Extreme Birdwatching",
+  "上映年": "2025",
+  "上映日期": "2025-08-20",
+  "主要国家": "美国",
+  "制作国家": [
+    "美国"
+  ],
+  "导演": [
+    "Owen Reiser"
+  ],
+  "编剧": [
+    "Owen Reiser"
+  ],
+  "主演": [
+    "Quentin Reiser",
+    "Owen Reiser"
+  ],
+  "人物": [
+    {
+      "id": "",
+      "姓名": "Owen Reiser",
+      "职位": "导演"
+    },
+    {
+      "id": "",
+      "姓名": "Owen Reiser",
+      "职位": "编剧"
+    },
+    {
+      "id": "",
+      "姓名": "Quentin Reiser",
+      "职位": "主演"
+    },
+    {
+      "id": "",
+      "姓名": "Owen Reiser",
+      "职位": "主演"
+    }
+  ],
+  "简介": "Two brothers dive into competitive birdwatching, living in a van for a year while traveling across the country to participate in a Big Year contest.",
+  "又名": [],
+  "imdb": "tt38023177",
+  "豆瓣": "https://movie.douban.com/subject/37661731/",
+  "海报": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2926155346.jpg",
+  "豆瓣评分": "9.3",
+  "不确定": []
+}

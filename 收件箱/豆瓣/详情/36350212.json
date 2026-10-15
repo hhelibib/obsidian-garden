@@ -1,0 +1,112 @@
+{
+  "schema": "mk-douban-subject/1",
+  "id": "36350212",
+  "url": "https://movie.douban.com/subject/36350212/",
+  "中文名": "我开始看到光芒",
+  "原名": "I’m Beginning To See The Light",
+  "上映年": "2025",
+  "上映日期": "2025-05-02",
+  "主要国家": "美国",
+  "制作国家": [
+    "美国"
+  ],
+  "导演": [
+    "康斯坦丁·库德亚科夫"
+  ],
+  "编剧": [
+    "马克·巴希",
+    "康斯坦丁·库德亚科夫"
+  ],
+  "主演": [
+    "艾比·考尼什",
+    "杰克·休斯顿",
+    "露茜·彭奇",
+    "郑智麟",
+    "小马克·布恩",
+    "布兰登·T·杰克逊",
+    "大卫·李·史密斯",
+    "杰恩·泰尼",
+    "Michael Sullivan",
+    "乔纳森·梅迪纳",
+    "Mike Hartsfield"
+  ],
+  "人物": [
+    {
+      "id": "37239022",
+      "姓名": "康斯坦丁·库德亚科夫",
+      "职位": "导演"
+    },
+    {
+      "id": "36495071",
+      "姓名": "马克·巴希",
+      "职位": "编剧"
+    },
+    {
+      "id": "37239022",
+      "姓名": "康斯坦丁·库德亚科夫",
+      "职位": "编剧"
+    },
+    {
+      "id": "27246740",
+      "姓名": "艾比·考尼什",
+      "职位": "主演"
+    },
+    {
+      "id": "27242194",
+      "姓名": "杰克·休斯顿",
+      "职位": "主演"
+    },
+    {
+      "id": "27219628",
+      "姓名": "露茜·彭奇",
+      "职位": "主演"
+    },
+    {
+      "id": "27205758",
+      "姓名": "郑智麟",
+      "职位": "主演"
+    },
+    {
+      "id": "27237844",
+      "姓名": "小马克·布恩",
+      "职位": "主演"
+    },
+    {
+      "id": "27237647",
+      "姓名": "布兰登·T·杰克逊",
+      "职位": "主演"
+    },
+    {
+      "id": "27354918",
+      "姓名": "大卫·李·史密斯",
+      "职位": "主演"
+    },
+    {
+      "id": "36631214",
+      "姓名": "杰恩·泰尼",
+      "职位": "主演"
+    },
+    {
+      "id": "27362020",
+      "姓名": "Michael Sullivan",
+      "职位": "主演"
+    },
+    {
+      "id": "34896904",
+      "姓名": "乔纳森·梅迪纳",
+      "职位": "主演"
+    },
+    {
+      "id": "27297432",
+      "姓名": "Mike Hartsfield",
+      "职位": "主演"
+    }
+  ],
+  "简介": "The film will follow Ezra, a grief-stricken jazz trumpeter who seeks purpose and salvation after the sudden, tragic death of his wife and daughter. When he is mistaken for the new lighthouse keeper, Ezra meets Hannah, a local school teacher who, along with ethereal music, reignites his passion for life and imbues it with meaning.",
+  "又名": [],
+  "imdb": "tt20424814",
+  "豆瓣": "https://movie.douban.com/subject/36350212/",
+  "海报": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2921111420.jpg",
+  "豆瓣评分": "",
+  "不确定": []
+}

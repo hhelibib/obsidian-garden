@@ -1,0 +1,21 @@
+{
+  "schema": "mk-douban-personage/1",
+  "id": "35582522",
+  "url": "https://www.douban.com/personage/35582522/",
+  "中文名": "鸟鸟",
+  "原名": "Niao Niao",
+  "出生": "1992",
+  "出生地": "中国,内蒙古,呼和浩特",
+  "国籍": [
+    "中国"
+  ],
+  "身份": [
+    "演员",
+    "编剧",
+    "副导演"
+  ],
+  "imdb": "nm14134209",
+  "豆瓣": "https://www.douban.com/personage/35582522/",
+  "简介": "脱口秀演员，代表作品《脱口秀大会第四季》。",
+  "照片": "https://img3.doubanio.com/view/personage/m/public/0fc80f1385731d452b69b443aa51b5e2.jpg"
+}
